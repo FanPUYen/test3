@@ -1,10 +1,10 @@
 ---
 title: "A general efficient method for chaotic signal estimation"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/1999-01-01-a-general-efficient-method-for-chaotic-signal-estimation
 date: 1999-01-01
-venue: 'IEEE Trans. Signal Processing'
-paperurl: ''
-citation: 'Ling Cong, Wu Xiaofu and Sun Songgeng "<a href=''>A general efficient method for chaotic signal estimation</a>", IEEE Trans. Signal Processing, vol. 47, pp. 1424-1427, May 1999.'
+venue: 'IEEE Transactions on signal processing'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/757236/'
+citation: 'Wu Xiaofu, Sun Songgeng. "<a href="https://ieeexplore.ieee.org/abstract/document/757236/">A general efficient method for chaotic signal estimation</a>", <i>IEEE Transactions on signal processing</i>, Jan. 1999.'
 ---

@@ -2,7 +2,7 @@
 title: "Construction $\pi_A$ Lattices Extended to Hurwitz Quaternion Integers"
 collection: publications
 category: conferences
-permalink: /publication/construction-pi-a-lattices-extended-to-hurwitz-quaternion-integers
+permalink: /publication/2024-01-01-construction-pi-a-lattices-extended-to-hurwitz-quaternion-integers
 date: 2024-01-01
 venue: '2024 IEEE International Symposium on Information Theory (ISIT)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10619280'

@@ -2,7 +2,7 @@
 title: "Storage-repair bandwidth trade-off for wireless caching with partial failure and broadcast repair"
 collection: publications
 category: conferences
-permalink: /publication/storage-repair-bandwidth-trade-off-for-wireless-caching-with-partial-failure-and-broadcast-repair
+permalink: /publication/2079-01-01-storage-repair-bandwidth-trade-off-for-wireless-caching-with-partial-failure-and-broadcast-repair
 date: 2079-01-01
 venue: '2018 IEEE Information Theory Workshop (ITW)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8613401'

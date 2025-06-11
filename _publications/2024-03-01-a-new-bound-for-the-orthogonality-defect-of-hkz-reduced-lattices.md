@@ -2,7 +2,7 @@
 title: "A new bound for the orthogonality defect of HKZ reduced lattices"
 collection: publications
 category: manuscripts
-permalink: /publication/a-new-bound-for-the-orthogonality-defect-of-hkz-reduced-lattices
+permalink: /publication/2024-03-01-a-new-bound-for-the-orthogonality-defect-of-hkz-reduced-lattices
 date: 2024-03-01
 venue: 'Research in Number Theory'
 paperurl: 'https://link.springer.com/article/10.1007/s40993-024-00554-1'

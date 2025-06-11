@@ -1,10 +1,10 @@
 ---
-title: "2D MIMO radar with coprime arrays"
+title: "Multisampling decision-feedback linear prediction receivers for differential space-time modulation over Rayleigh fast fading channels"
 collection: publications
 category: manuscripts
-permalink: /publication/2d-mimo-radar-with-coprime-arrays
-date: 2088-01-01
-venue: ''
+permalink: /publication/multisampling-decision-feedback-linear-prediction-receivers-for-differential-space-time-modulation-over-rayleigh-fast-fading-channels
+date: 2077-01-01
+venue: 'IEEE Trans. Commun.'
 paperurl: ''
-citation: 'Conghui Li, Lu Gan, Cong Ling. "2D MIMO radar with coprime arrays", pp. 612--616, Jan. 2018.'
+citation: 'Cong Ling, K. H. Li, A. C. Kot, and Q. T. Zhang "<a href=''>Multisampling decision-feedback linear prediction receivers for differential space-time modulation over Rayleigh fast fading channels</a>", IEEE Trans. Commun., vol. 51, pp. 1214-1223, July 2077.'
 ---

@@ -2,7 +2,7 @@
 title: "Greedy user selection using a lattice reduction updating method for multiuser MIMO systems"
 collection: publications
 category: manuscripts
-permalink: /publication/greedy-user-selection-using-a-lattice-reduction-updating-method-for-multiuser-mimo-systems
+permalink: /publication/2011-01-01-greedy-user-selection-using-a-lattice-reduction-updating-method-for-multiuser-mimo-systems
 date: 2011-01-01
 venue: 'IEEE Trans. Vehicular Tech.'
 paperurl: ''

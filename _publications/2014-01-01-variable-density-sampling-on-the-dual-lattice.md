@@ -2,7 +2,7 @@
 title: "Variable-Density Sampling on the Dual Lattice"
 collection: publications
 category: conferences
-permalink: /publication/variable-density-sampling-on-the-dual-lattice
+permalink: /publication/2014-01-01-variable-density-sampling-on-the-dual-lattice
 date: 2014-01-01
 venue: 'ISIT 2014.'
 paperurl: ''

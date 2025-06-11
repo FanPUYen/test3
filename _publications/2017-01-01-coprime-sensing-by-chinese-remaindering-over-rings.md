@@ -2,7 +2,7 @@
 title: "Coprime Sensing by Chinese Remaindering over Rings"
 collection: publications
 category: manuscripts
-permalink: /publication/coprime-sensing-by-chinese-remaindering-over-rings
+permalink: /publication/2017-01-01-coprime-sensing-by-chinese-remaindering-over-rings
 date: 2017-01-01
 venue: 'SAMPTA 2017.'
 paperurl: ''

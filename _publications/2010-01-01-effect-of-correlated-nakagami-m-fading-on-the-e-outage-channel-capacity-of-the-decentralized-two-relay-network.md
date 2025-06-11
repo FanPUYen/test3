@@ -2,7 +2,7 @@
 title: "Effect of correlated Nakagami-m fading on the e-outage channel capacity of the decentralized two-relay network"
 collection: publications
 category: manuscripts
-permalink: /publication/effect-of-correlated-nakagami-m-fading-on-the-e-outage-channel-capacity-of-the-decentralized-two-relay-network
+permalink: /publication/2010-01-01-effect-of-correlated-nakagami-m-fading-on-the-e-outage-channel-capacity-of-the-decentralized-two-relay-network
 date: 2010-01-01
 venue: 'IEEE Trans. Wireless. Commun.'
 paperurl: ''

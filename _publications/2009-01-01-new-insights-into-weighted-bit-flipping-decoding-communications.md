@@ -2,7 +2,7 @@
 title: "New insights into weighted bit-flipping decoding Communications"
 collection: publications
 category: manuscripts
-permalink: /publication/new-insights-into-weighted-bit-flipping-decoding-communications
+permalink: /publication/2009-01-01-new-insights-into-weighted-bit-flipping-decoding-communications
 date: 2009-01-01
 venue: 'IEEE Trans. Commun.'
 paperurl: ''

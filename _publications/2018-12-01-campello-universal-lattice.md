@@ -2,7 +2,7 @@
 title: "Universal Lattice Codes for MIMO Channels"
 collection: publications
 category: manuscripts
-permalink: /publication/campello2018mimo
+permalink: /publication/2018-12-01-campello-universal-lattice
 date: 2018-12-01
 venue: 'IEEE Trans. Inform. Theory'
 paperurl: 'https://arxiv.org/abs/1603.09263'

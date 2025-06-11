@@ -2,7 +2,7 @@
 title: "On the Diversity of Linear Transceivers in MIMO AF Relaying Systems"
 collection: publications
 category: manuscripts
-permalink: /publication/on-the-diversity-of-linear-transceivers-in-mimo-af-relaying-systems
+permalink: /publication/2016-01-01-on-the-diversity-of-linear-transceivers-in-mimo-af-relaying-systems
 date: 2016-01-01
 venue: 'IEEE Trans. Inform. Theory'
 paperurl: 'http://arxiv.org/abs/1403.2081'

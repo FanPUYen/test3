@@ -2,7 +2,7 @@
 title: "Achieving the AWGN channel capacity with lattice Gaussian distribution"
 collection: publications
 category: conferences
-permalink: /publication/achieving-the-awgn-channel-capacity-with-lattice-gaussian-distribution
+permalink: /publication/2013-01-01-achieving-the-awgn-channel-capacity-with-lattice-gaussian-distribution
 date: 2013-01-01
 venue: 'ISIT 2013.'
 paperurl: ''

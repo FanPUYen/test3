@@ -2,7 +2,7 @@
 title: "A back-iteration method for reconstructing chaotic sequences in finite-precision machines"
 collection: publications
 category: manuscripts
-permalink: /publication/a-back-iteration-method-for-reconstructing-chaotic-sequences-in-finite-precision-machines
+permalink: /publication/2008-01-01-a-back-iteration-method-for-reconstructing-chaotic-sequences-in-finite-precision-machines
 date: 2008-01-01
 venue: 'Circuits'
 paperurl: ''

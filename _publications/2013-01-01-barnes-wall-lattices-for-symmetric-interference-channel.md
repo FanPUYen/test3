@@ -2,7 +2,7 @@
 title: "Barnes-Wall lattices for symmetric interference channel"
 collection: publications
 category: conferences
-permalink: /publication/barnes-wall-lattices-for-symmetric-interference-channel
+permalink: /publication/2013-01-01-barnes-wall-lattices-for-symmetric-interference-channel
 date: 2013-01-01
 venue: 'ISIT 2013.'
 paperurl: ''

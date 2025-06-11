@@ -2,7 +2,7 @@
 title: "On complex LLL algorithm for digital communications"
 collection: publications
 category: manuscripts
-permalink: /publication/on-complex-lll-algorithm-for-digital-communications
+permalink: /publication/2007-01-01-on-complex-lll-algorithm-for-digital-communications
 date: 2007-01-01
 venue: 'LLL+25 Conference'
 paperurl: ''

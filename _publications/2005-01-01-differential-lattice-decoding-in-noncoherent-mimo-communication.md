@@ -2,7 +2,7 @@
 title: "Differential lattice decoding in noncoherent MIMO communication"
 collection: publications
 category: conferences
-permalink: /publication/differential-lattice-decoding-in-noncoherent-mimo-communication
+permalink: /publication/2005-01-01-differential-lattice-decoding-in-noncoherent-mimo-communication
 date: 2005-01-01
 venue: 'ICC’05'
 paperurl: ''

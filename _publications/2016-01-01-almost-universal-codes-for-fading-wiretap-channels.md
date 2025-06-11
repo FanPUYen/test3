@@ -2,7 +2,7 @@
 title: "Almost universal codes for fading wiretap channels"
 collection: publications
 category: conferences
-permalink: /publication/almost-universal-codes-for-fading-wiretap-channels
+permalink: /publication/2016-01-01-almost-universal-codes-for-fading-wiretap-channels
 date: 2016-01-01
 venue: 'ISIT 2016.'
 paperurl: 'http://arxiv.org/abs/1601.02391'

@@ -2,7 +2,7 @@
 title: "Lattice Gaussian Sampling by Markov Chain Monte Carlo: Bounded Distance Decoding and Trapdoor Sampling"
 collection: publications
 category: manuscripts
-permalink: /publication/wang2019lattice
+permalink: /publication/2019-06-01-wang-lattice-gaussian-sampling
 date: 2019-06-01
 venue: 'IEEE Trans. Inform. Theory'
 paperurl: 'https://arxiv.org/abs/1704.02673'

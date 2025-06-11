@@ -2,7 +2,7 @@
 title: "A unified view of sorting in lattice reduction: From V-BLAST to LLL and beyond"
 collection: publications
 category: conferences
-permalink: /publication/a-unified-view-of-sorting-in-lattice-reduction-from-v-blast-to-lll-and-beyond
+permalink: /publication/2009-01-01-a-unified-view-of-sorting-in-lattice-reduction-from-v-blast-to-lll-and-beyond
 date: 2009-01-01
 venue: 'IEEE Inform. Theory Workshop 2009'
 paperurl: ''

@@ -2,7 +2,7 @@
 title: "A general efficient method for chaotic signal estimation"
 collection: publications
 category: manuscripts
-permalink: /publication/a-general-efficient-method-for-chaotic-signal-estimation
+permalink: /publication/1999-01-01-a-general-efficient-method-for-chaotic-signal-estimation
 date: 1999-01-01
 venue: 'IEEE Trans. Signal Processing'
 paperurl: ''

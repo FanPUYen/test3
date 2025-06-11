@@ -2,7 +2,7 @@
 title: "Performance evaluation for bandlimited DS-CDMA systems based on simplified improved Gaussian approximation"
 collection: publications
 category: manuscripts
-permalink: /publication/performance-evaluation-for-bandlimited-ds-cdma-systems-based-on-simplified-improved-gaussian-approximation
+permalink: /publication/2003-01-01-performance-evaluation-for-bandlimited-ds-cdma-systems-based-on-simplified-improved-gaussian-approximation
 date: 2003-01-01
 venue: 'IEEE Trans. Commun.'
 paperurl: ''

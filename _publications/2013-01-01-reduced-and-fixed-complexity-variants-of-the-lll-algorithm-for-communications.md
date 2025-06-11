@@ -2,7 +2,7 @@
 title: "Reduced and fixed-complexity variants of the LLL algorithm for communications"
 collection: publications
 category: manuscripts
-permalink: /publication/reduced-and-fixed-complexity-variants-of-the-lll-algorithm-for-communications
+permalink: /publication/2013-01-01-reduced-and-fixed-complexity-variants-of-the-lll-algorithm-for-communications
 date: 2013-01-01
 venue: 'IEEE Trans. Commun.'
 paperurl: 'http://arxiv.org/abs/1006.1661'

@@ -2,7 +2,7 @@
 title: "Decoding by sampling-Part II: Derandomization and soft-output decoding"
 collection: publications
 category: manuscripts
-permalink: /publication/decoding-by-sampling-part-ii-derandomization-and-soft-output-decoding
+permalink: /publication/2013-01-01-decoding-by-sampling-part-ii-derandomization-and-soft-output-decoding
 date: 2013-01-01
 venue: 'IEEE Trans. Commun.'
 paperurl: 'http://arxiv.org/abs/1305.5762'

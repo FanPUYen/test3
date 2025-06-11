@@ -2,7 +2,7 @@
 title: "UWB portable printed monopole array design for MIMO communications"
 collection: publications
 category: manuscripts
-permalink: /publication/uwb-portable-printed-monopole-array-design-for-mimo-communications
+permalink: /publication/2010-01-01-uwb-portable-printed-monopole-array-design-for-mimo-communications
 date: 2010-01-01
 venue: 'Microwave and Optical Technology Letters'
 paperurl: ''

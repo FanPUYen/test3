@@ -2,7 +2,7 @@
 title: "Integration of GPS with a WiFi high accuracy ranging functionality"
 collection: publications
 category: manuscripts
-permalink: /publication/integration-of-gps-with-a-wifi-high-accuracy-ranging-functionality
+permalink: /publication/2013-01-01-integration-of-gps-with-a-wifi-high-accuracy-ranging-functionality
 date: 2013-01-01
 venue: 'Geo-spatial Information Science'
 paperurl: ''

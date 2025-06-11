@@ -2,7 +2,7 @@
 title: "Chaotic frequency hopping sequences"
 collection: publications
 category: manuscripts
-permalink: /publication/chaotic-frequency-hopping-sequences
+permalink: /publication/1998-01-01-chaotic-frequency-hopping-sequences
 date: 1998-01-01
 venue: 'IEEE Trans. Commun.'
 paperurl: ''

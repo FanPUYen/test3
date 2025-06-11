@@ -2,7 +2,7 @@
 title: "Polar Coding Strategies for the Interference Channel with Partial-Joint Decoding"
 collection: publications
 category: manuscripts
-permalink: /publication/zheng2019polarinterference
+permalink: /publication/2019-04-01-zheng-polar-interference
 date: 2019-04-01
 venue: 'IEEE Trans. Inform. Theory'
 paperurl: 'https://arxiv.org/abs/1608.08742'

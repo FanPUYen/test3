@@ -2,7 +2,7 @@
 title: "2D MIMO Radar with Coprime Arrays"
 collection: publications
 category: manuscripts
-permalink: /publication/2d-mimo-radar-with-coprime-arrays
+permalink: /publication/2018-01-01-2d-mimo-radar-with-coprime-arrays
 date: 2018-01-01
 venue: 'SAM 2018.'
 paperurl: ''

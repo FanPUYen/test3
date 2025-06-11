@@ -2,7 +2,7 @@
 title: "Further Results on Independent Metropolis-Hastings-Klein Sampling"
 collection: publications
 category: conferences
-permalink: /publication/further-results-on-independent-metropolis-hastings-klein-sampling
+permalink: /publication/2016-01-01-further-results-on-independent-metropolis-hastings-klein-sampling
 date: 2016-01-01
 venue: 'ISIT 2016.'
 paperurl: ''

@@ -2,7 +2,7 @@
 title: "Achieving AWGN channel capacity with lattice Gaussian coding"
 collection: publications
 category: manuscripts
-permalink: /publication/achieving-awgn-channel-capacity-with-lattice-gaussian-coding
+permalink: /publication/2014-01-01-achieving-awgn-channel-capacity-with-lattice-gaussian-coding
 date: 2014-01-01
 venue: 'IEEE Trans. Inform. Theory'
 paperurl: 'http://arxiv.org/abs/1302.5906'

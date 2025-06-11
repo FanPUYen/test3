@@ -2,7 +2,7 @@
 title: "Noncoherent sequence detection of differential space-time modulation"
 collection: publications
 category: manuscripts
-permalink: /publication/noncoherent-sequence-detection-of-differential-space-time-modulation
+permalink: /publication/2003-01-01-noncoherent-sequence-detection-of-differential-space-time-modulation
 date: 2003-01-01
 venue: 'IEEE Trans. Inform. Theory'
 paperurl: ''

@@ -2,7 +2,7 @@
 title: "Artificial-Noise-Aided Message Authentication Codes with Information-Theoretic Security"
 collection: publications
 category: manuscripts
-permalink: /publication/artificial-noise-aided-message-authentication-codes-with-information-theoretic-security
+permalink: /publication/2016-01-01-artificial-noise-aided-message-authentication-codes-with-information-theoretic-security
 date: 2016-01-01
 venue: 'IEEE Trans. Inform. Forensics & Security'
 paperurl: 'http://arxiv.org/abs/1511.05357'

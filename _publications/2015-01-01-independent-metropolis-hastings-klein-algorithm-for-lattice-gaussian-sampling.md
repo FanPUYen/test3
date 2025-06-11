@@ -2,7 +2,7 @@
 title: "Independent Metropolis-Hastings-Klein Algorithm for Lattice Gaussian Sampling"
 collection: publications
 category: conferences
-permalink: /publication/independent-metropolis-hastings-klein-algorithm-for-lattice-gaussian-sampling
+permalink: /publication/2015-01-01-independent-metropolis-hastings-klein-algorithm-for-lattice-gaussian-sampling
 date: 2015-01-01
 venue: 'ISIT 2015.'
 paperurl: 'http://arxiv.org/abs/1501.05757'

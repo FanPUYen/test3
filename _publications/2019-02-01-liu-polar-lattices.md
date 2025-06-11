@@ -2,7 +2,7 @@
 title: "Construction of capacity-achieving lattice codes: Polar lattices"
 collection: publications
 category: manuscripts
-permalink: /publication/liu2019polar-lattices
+permalink: /publication/2019-02-01-liu-polar-lattices
 date: 2019-02-01
 venue: 'IEEE Trans. Commun.'
 paperurl: 'http://arxiv.org/abs/1411.0187'

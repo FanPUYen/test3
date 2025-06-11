@@ -2,7 +2,7 @@
 title: "Paper Title Number 4"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/2056-06-01-lattice-gaussian-sampling-by-markov-chain-monte-carlo-bounded-distance-decoding-and-trapdoor-sampling
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2056-02-17
 venue: 'GitHub Journal of Bugs'

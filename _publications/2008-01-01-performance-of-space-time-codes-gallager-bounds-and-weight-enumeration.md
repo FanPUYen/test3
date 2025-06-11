@@ -2,7 +2,7 @@
 title: "Performance of space-time codes: Gallager bounds and weight enumeration"
 collection: publications
 category: manuscripts
-permalink: /publication/performance-of-space-time-codes-gallager-bounds-and-weight-enumeration
+permalink: /publication/2008-01-01-performance-of-space-time-codes-gallager-bounds-and-weight-enumeration
 date: 2008-01-01
 venue: 'IEEE Trans. Inform. Theory'
 paperurl: ''

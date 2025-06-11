@@ -2,7 +2,7 @@
 title: "Modulated Unit-Norm Tight Frames for Compressed Sensing"
 collection: publications
 category: manuscripts
-permalink: /publication/modulated-unit-norm-tight-frames-for-compressed-sensing
+permalink: /publication/2015-01-01-modulated-unit-norm-tight-frames-for-compressed-sensing
 date: 2015-01-01
 venue: 'IEEE Trans. Signal Processing'
 paperurl: 'http://arxiv.org/abs/1411.7630'

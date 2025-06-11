@@ -2,7 +2,7 @@
 title: "Ring Compute-and-Forward over Block-Fading Channels"
 collection: publications
 category: manuscripts
-permalink: /publication/lyu2019ring
+permalink: /publication/2019-11-01-lyu-ring-compute-and-forward
 date: 2019-11-01
 venue: 'IEEE Trans. Inform. Theory'
 paperurl: 'https://arxiv.org/abs/1805.02073'

@@ -1,12 +1,13 @@
 {% include base_path %}
 <li>
   {% if post.citation %}
-    {{ post.citation | split:'"' | first | strip }} -
-  {% endif %}
-  {% if post.paperurl %}
-    <a href="{{ post.paperurl }}">{{ post.title }}</a>
+    {{ post.citation }}
   {% else %}
-    <a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a>
+    {% if post.paperurl %}
+      <a href="{{ post.paperurl }}">{{ post.title }}</a>
+    {% else %}
+      <a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a>
     {% endif %}{% if post.venue %}, <i>{{ post.venue }}</i>{% endif %}{% if post.date %}, {{ post.date | date: '%Y' }}{% endif %}
+  {% endif %}
 </li>
 

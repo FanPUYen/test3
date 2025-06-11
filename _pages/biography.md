@@ -1,10 +1,8 @@
 ---
-permalink: /
-title: "Cong Ling's Homepage"
+layout: archive
+title: "Biography"
+permalink: /biography/
 author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
 ---
 
 {% include base_path %}

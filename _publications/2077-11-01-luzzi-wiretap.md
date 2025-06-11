@@ -1,7 +1,7 @@
 ---
 title: "2D MIMO radar with coprime arrays"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2d-mimo-radar-with-coprime-arrays
 date: 2088-01-01
 venue: ''

@@ -1,10 +1,10 @@
 ---
-title: "Modulated Unit-Norm Tight Frames for Compressed Sensing"
+title: "2D MIMO radar with coprime arrays"
 collection: publications
-category: manuscripts
-permalink: /publication/modulated-unit-norm-tight-frames-for-compressed-sensing
-date: 2015-01-01
-venue: 'IEEE Trans. Signal Processing'
-paperurl: 'http://arxiv.org/abs/1411.7630'
-citation: 'Peng Zhang, Lu Gan, Sumei Sun, and Cong Ling "<a href="http://arxiv.org/abs/1411.7630">Modulated Unit-Norm Tight Frames for Compressed Sensing</a>", IEEE Trans. Signal Processing, vol. 63, no. 15, pp. 3974–3985, August 2015.'
+category: conferences
+permalink: /publication/2d-mimo-radar-with-coprime-arrays
+date: 2088-01-01
+venue: ''
+paperurl: ''
+citation: 'Conghui Li, Lu Gan, Cong Ling. "2D MIMO radar with coprime arrays", pp. 612--616, Jan. 2018.'
 ---

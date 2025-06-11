@@ -1,0 +1,5 @@
+{% include base_path %}
+<li>
+  <a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a>{% if post.venue %}, <i>{{ post.venue }}</i>{% endif %}{% if post.date %}, {{ post.date | date: '%Y' }}{% endif %}
+</li>
+

@@ -1,11 +1,11 @@
 ---
 title: "Paper Title Number 4"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2056-02-17
 venue: 'GitHub Journal of Bugs'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+citation: 'Antonio Campello, Daniel Dadush, Cong Ling. "<a href="https://arxiv.org/abs/1707.06688">AWGN-Goodness is Enough: Capacity-Achieving Lattice Codes based on Dithered Probabilistic Shaping</a>", <i>IEEE Trans. Inform. Theory</i>, vol. 65, pp. 1961-1971, Mar. 2019.'
 ---

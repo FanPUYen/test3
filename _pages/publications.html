@@ -24,14 +24,14 @@ author_profile: true
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
-      {% include archive-single-cv.html %}
+      {% include archive-single-line.html %}
     {% endfor %}
     </ul>
   {% endfor %}
 {% else %}
   <ul>
   {% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-line.html %}
   {% endfor %}
   </ul>
 {% endif %}

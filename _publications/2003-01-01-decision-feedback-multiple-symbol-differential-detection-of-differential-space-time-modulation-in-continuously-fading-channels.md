@@ -2,7 +2,7 @@
 title: "Decision-feedback multiple symbol differential detection of differential space-time modulation in continuously fading channels"
 collection: publications
 category: manuscripts
-permalink: /publication/decision-feedback-multiple-symbol-differential-detection-of-differential-space-time-modulation-in-continuously-fading-channels
+permalink: /publication/2003-01-01-decision-feedback-multiple-symbol-differential-detection-of-differential-space-time-modulation-in-continuously-fading-channels
 date: 2003-01-01
 venue: 'in Proc. ICASSP’03'
 paperurl: ''

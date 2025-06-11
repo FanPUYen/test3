@@ -2,7 +2,7 @@
 title: "Coded Computation Against Straggling Channel Decoders in the Cloud for Gaussian Channels"
 collection: publications
 category: conferences
-permalink: /publication/coded-computation-against-straggling-channel-decoders-in-the-cloud-for-gaussian-channels
+permalink: /publication/2020-01-01-coded-computation-against-straggling-channel-decoders-in-the-cloud-for-gaussian-channels
 date: 2020-01-01
 venue: 'ISIT 2020.'
 paperurl: 'https://arxiv.org/abs/1805.11698'

@@ -2,7 +2,7 @@
 title: "Deterministic sequences for compressive MIMO channel estimation"
 collection: publications
 category: manuscripts
-permalink: /publication/deterministic-sequences-for-compressive-mimo-channel-estimation
+permalink: /publication/2013-01-01-deterministic-sequences-for-compressive-mimo-channel-estimation
 date: 2013-01-01
 venue: 'EUSIPCO 2013.'
 paperurl: ''

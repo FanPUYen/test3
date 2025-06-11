@@ -2,7 +2,7 @@
 title: "Secrecy gain, flatness factor, and secrecy-goodness of even unimodular lattices"
 collection: publications
 category: conferences
-permalink: /publication/secrecy-gain-flatness-factor-and-secrecy-goodness-of-even-unimodular-lattices
+permalink: /publication/2014-01-01-secrecy-gain-flatness-factor-and-secrecy-goodness-of-even-unimodular-lattices
 date: 2014-01-01
 venue: 'ISIT 2014.'
 paperurl: ''

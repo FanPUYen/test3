@@ -2,7 +2,7 @@
 title: "Semantically secure lattice codes for the Gaussian wiretap channel"
 collection: publications
 category: manuscripts
-permalink: /publication/semantically-secure-lattice-codes-for-the-gaussian-wiretap-channel
+permalink: /publication/2014-01-01-semantically-secure-lattice-codes-for-the-gaussian-wiretap-channel
 date: 2014-01-01
 venue: 'IEEE Trans. Inform. Theory'
 paperurl: 'http://arxiv.org/abs/1210.6673'

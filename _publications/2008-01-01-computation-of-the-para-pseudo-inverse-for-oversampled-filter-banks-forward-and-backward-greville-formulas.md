@@ -2,7 +2,7 @@
 title: "Computation of the Para-Pseudo Inverse for Oversampled Filter Banks: Forward and Backward Greville Formulas"
 collection: publications
 category: manuscripts
-permalink: /publication/computation-of-the-para-pseudo-inverse-for-oversampled-filter-banks-forward-and-backward-greville-formulas
+permalink: /publication/2008-01-01-computation-of-the-para-pseudo-inverse-for-oversampled-filter-banks-forward-and-backward-greville-formulas
 date: 2008-01-01
 venue: 'IEEE Trans. Signal Processing'
 paperurl: ''

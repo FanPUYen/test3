@@ -2,7 +2,7 @@
 title: "On the proximity factors of lattice reduction-aided decoding"
 collection: publications
 category: manuscripts
-permalink: /publication/on-the-proximity-factors-of-lattice-reduction-aided-decoding
+permalink: /publication/2011-01-01-on-the-proximity-factors-of-lattice-reduction-aided-decoding
 date: 2011-01-01
 venue: 'IEEE Trans. Signal Processing'
 paperurl: 'http://arxiv.org/abs/1006.1666'

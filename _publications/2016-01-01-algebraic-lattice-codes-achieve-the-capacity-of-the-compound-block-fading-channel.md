@@ -2,7 +2,7 @@
 title: "Algebraic Lattice Codes Achieve the Capacity of the Compound Block-Fading Channel"
 collection: publications
 category: conferences
-permalink: /publication/algebraic-lattice-codes-achieve-the-capacity-of-the-compound-block-fading-channel
+permalink: /publication/2016-01-01-algebraic-lattice-codes-achieve-the-capacity-of-the-compound-block-fading-channel
 date: 2016-01-01
 venue: 'ISIT 2016.'
 paperurl: 'http://arxiv.org/abs/1603.09263'

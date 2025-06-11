@@ -2,7 +2,7 @@
 title: "Novel Toeptlitz sensing matrices for compressive radar imaging"
 collection: publications
 category: conferences
-permalink: /publication/novel-toeptlitz-sensing-matrices-for-compressive-radar-imaging
+permalink: /publication/2012-01-01-novel-toeptlitz-sensing-matrices-for-compressive-radar-imaging
 date: 2012-01-01
 venue: '1st International Workshop on Compressed Sensing applied to Radar'
 paperurl: ''

@@ -2,7 +2,7 @@
 title: "Complex lattice reduction algorithm for low-complexity full-diversity MIMO detection"
 collection: publications
 category: manuscripts
-permalink: /publication/complex-lattice-reduction-algorithm-for-low-complexity-full-diversity-mimo-detection
+permalink: /publication/2009-01-01-complex-lattice-reduction-algorithm-for-low-complexity-full-diversity-mimo-detection
 date: 2009-01-01
 venue: 'IEEE Trans. Signal Processing'
 paperurl: ''

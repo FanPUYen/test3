@@ -2,7 +2,7 @@
 title: "Bounds on the decoding error probability of binary block codes over noncoherent block AWGN and fading channels"
 collection: publications
 category: manuscripts
-permalink: /publication/bounds-on-the-decoding-error-probability-of-binary-block-codes-over-noncoherent-block-awgn-and-fading-channels
+permalink: /publication/2006-01-01-bounds-on-the-decoding-error-probability-of-binary-block-codes-over-noncoherent-block-awgn-and-fading-channels
 date: 2006-01-01
 venue: 'IEEE Trans. Wireless Commun.'
 paperurl: ''

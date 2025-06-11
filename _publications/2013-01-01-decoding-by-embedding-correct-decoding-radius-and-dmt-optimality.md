@@ -2,7 +2,7 @@
 title: "Decoding by embedding: Correct decoding radius and DMT optimality"
 collection: publications
 category: manuscripts
-permalink: /publication/decoding-by-embedding-correct-decoding-radius-and-dmt-optimality
+permalink: /publication/2013-01-01-decoding-by-embedding-correct-decoding-radius-and-dmt-optimality
 date: 2013-01-01
 venue: 'IEEE Trans. Inform. Theory'
 paperurl: 'http://arxiv.org/abs/1102.2936'

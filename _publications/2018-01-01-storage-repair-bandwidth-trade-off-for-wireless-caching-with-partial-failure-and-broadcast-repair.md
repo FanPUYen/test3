@@ -2,7 +2,7 @@
 title: "Storage-Repair Bandwidth Trade-off for Wireless Caching with Partial Failure and Broadcast Repair"
 collection: publications
 category: conferences
-permalink: /publication/storage-repair-bandwidth-trade-off-for-wireless-caching-with-partial-failure-and-broadcast-repair
+permalink: /publication/2018-01-01-storage-repair-bandwidth-trade-off-for-wireless-caching-with-partial-failure-and-broadcast-repair
 date: 2018-01-01
 venue: 'ITW 2018.'
 paperurl: 'https://arxiv.org/abs/1807.00220'

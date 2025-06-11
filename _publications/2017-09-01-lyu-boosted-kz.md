@@ -2,7 +2,7 @@
 title: "Boosted KZ and LLL Algorithms"
 collection: publications
 category: manuscripts
-permalink: /publication/lyu2017boosted
+permalink: /publication/2017-09-01-lyu-boosted-kz
 date: 2017-09-01
 venue: 'IEEE Trans. Signal Processing'
 paperurl: 'https://arxiv.org/abs/1703.03303'

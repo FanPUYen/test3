@@ -2,7 +2,7 @@
 title: "Lattice Gaussian Coding for Capacity and Secrecy: Two Sides of One Coin"
 collection: publications
 category: conferences
-permalink: /publication/lattice-gaussian-coding-for-capacity-and-secrecy-two-sides-of-one-coin
+permalink: /publication/2014-01-01-lattice-gaussian-coding-for-capacity-and-secrecy-two-sides-of-one-coin
 date: 2014-01-01
 venue: 'International Zurich Seminar on Communications 2014 (invited paper).'
 paperurl: ''

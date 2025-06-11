@@ -2,7 +2,7 @@
 title: "Almost universal codes for MIMO wiretap channels"
 collection: publications
 category: manuscripts
-permalink: /publication/luzzi2018wiretap
+permalink: /publication/2018-11-01-luzzi-wiretap
 date: 2018-11-01
 venue: 'IEEE Trans. Inform. Theory'
 paperurl: 'https://arxiv.org/abs/1611.01428'

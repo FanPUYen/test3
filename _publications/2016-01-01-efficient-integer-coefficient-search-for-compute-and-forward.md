@@ -2,7 +2,7 @@
 title: "Efficient Integer Coefficient Search for Compute-and-Forward"
 collection: publications
 category: manuscripts
-permalink: /publication/efficient-integer-coefficient-search-for-compute-and-forward
+permalink: /publication/2016-01-01-efficient-integer-coefficient-search-for-compute-and-forward
 date: 2016-01-01
 venue: 'IEEE Trans. Wireless Commun.'
 paperurl: 'https://arxiv.org/abs/1609.05490'

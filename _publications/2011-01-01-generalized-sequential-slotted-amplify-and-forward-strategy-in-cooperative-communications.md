@@ -2,7 +2,7 @@
 title: "Generalized sequential slotted amplify and forward strategy in cooperative communications"
 collection: publications
 category: manuscripts
-permalink: /publication/generalized-sequential-slotted-amplify-and-forward-strategy-in-cooperative-communications
+permalink: /publication/2011-01-01-generalized-sequential-slotted-amplify-and-forward-strategy-in-cooperative-communications
 date: 2011-01-01
 venue: 'IEEE Trans. Inform. Theory'
 paperurl: ''

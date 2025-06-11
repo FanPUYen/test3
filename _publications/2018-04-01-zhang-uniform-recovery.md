@@ -2,7 +2,7 @@
 title: "Uniform Recovery Bounds for Structured Random Matrices in Corrupted Compressed Sensing"
 collection: publications
 category: manuscripts
-permalink: /publication/zhang2018uniform
+permalink: /publication/2018-04-01-zhang-uniform-recovery
 date: 2018-04-01
 venue: 'IEEE Trans. Signal Processing'
 paperurl: 'https://arxiv.org/abs/1706.09087'

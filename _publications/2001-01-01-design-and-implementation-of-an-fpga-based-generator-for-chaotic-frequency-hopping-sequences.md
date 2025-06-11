@@ -2,7 +2,7 @@
 title: "Design and implementation of an FPGA-based generator for chaotic frequency hopping sequences"
 collection: publications
 category: manuscripts
-permalink: /publication/design-and-implementation-of-an-fpga-based-generator-for-chaotic-frequency-hopping-sequences
+permalink: /publication/2001-01-01-design-and-implementation-of-an-fpga-based-generator-for-chaotic-frequency-hopping-sequences
 date: 2001-01-01
 venue: 'IEEE Trans. CAS-I'
 paperurl: ''

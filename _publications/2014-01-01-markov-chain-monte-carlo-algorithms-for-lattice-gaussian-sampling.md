@@ -2,7 +2,7 @@
 title: "Markov Chain Monte Carlo Algorithms for Lattice Gaussian Sampling"
 collection: publications
 category: conferences
-permalink: /publication/markov-chain-monte-carlo-algorithms-for-lattice-gaussian-sampling
+permalink: /publication/2014-01-01-markov-chain-monte-carlo-algorithms-for-lattice-gaussian-sampling
 date: 2014-01-01
 venue: 'ISIT 2014.'
 paperurl: ''

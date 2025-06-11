@@ -2,7 +2,7 @@
 title: "Generalized union bound for space-time codes"
 collection: publications
 category: manuscripts
-permalink: /publication/generalized-union-bound-for-space-time-codes
+permalink: /publication/2007-01-01-generalized-union-bound-for-space-time-codes
 date: 2007-01-01
 venue: 'IEEE Trans. Commun.'
 paperurl: ''

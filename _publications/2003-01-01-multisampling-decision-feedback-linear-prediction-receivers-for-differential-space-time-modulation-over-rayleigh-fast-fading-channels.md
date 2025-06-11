@@ -2,7 +2,7 @@
 title: "Multisampling decision-feedback linear prediction receivers for differential space-time modulation over Rayleigh fast fading channels"
 collection: publications
 category: manuscripts
-permalink: /publication/multisampling-decision-feedback-linear-prediction-receivers-for-differential-space-time-modulation-over-rayleigh-fast-fading-channels
+permalink: /publication/2003-01-01-multisampling-decision-feedback-linear-prediction-receivers-for-differential-space-time-modulation-over-rayleigh-fast-fading-channels
 date: 2003-01-01
 venue: 'IEEE Trans. Commun.'
 paperurl: ''

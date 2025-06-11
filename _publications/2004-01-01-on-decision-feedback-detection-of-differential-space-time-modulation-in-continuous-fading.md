@@ -2,7 +2,7 @@
 title: "On decision-feedback detection of differential space-time modulation in continuous fading"
 collection: publications
 category: manuscripts
-permalink: /publication/on-decision-feedback-detection-of-differential-space-time-modulation-in-continuous-fading
+permalink: /publication/2004-01-01-on-decision-feedback-detection-of-differential-space-time-modulation-in-continuous-fading
 date: 2004-01-01
 venue: 'IEEE Trans. Commun.'
 paperurl: ''

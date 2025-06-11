@@ -2,7 +2,7 @@
 title: "On the Geometric Ergodicity of Metropolis-Hastings Algorithms for Lattice Gaussian Sampling"
 collection: publications
 category: manuscripts
-permalink: /publication/wang2018ergodicity
+permalink: /publication/2018-02-02-wang-ergodicity
 date: 2018-02-02
 venue: 'IEEE Trans. Inform. Theory'
 paperurl: 'http://arxiv.org/abs/1501.05757'

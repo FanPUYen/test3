@@ -2,7 +2,7 @@
 title: "Family size of orthogonal Oppermann sequences"
 collection: publications
 category: manuscripts
-permalink: /publication/family-size-of-orthogonal-oppermann-sequences
+permalink: /publication/2001-01-01-family-size-of-orthogonal-oppermann-sequences
 date: 2001-01-01
 venue: 'Electron. Lett.'
 paperurl: ''

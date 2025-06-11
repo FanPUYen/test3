@@ -2,7 +2,7 @@
 title: "Multiple-Antenna differential lattice decoding"
 collection: publications
 category: manuscripts
-permalink: /publication/multiple-antenna-differential-lattice-decoding
+permalink: /publication/2005-01-01-multiple-antenna-differential-lattice-decoding
 date: 2005-01-01
 venue: 'IEEE J-SAC'
 paperurl: ''

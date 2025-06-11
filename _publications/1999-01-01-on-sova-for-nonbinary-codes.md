@@ -2,7 +2,7 @@
 title: "On SOVA for nonbinary codes"
 collection: publications
 category: manuscripts
-permalink: /publication/on-sova-for-nonbinary-codes
+permalink: /publication/1999-01-01-on-sova-for-nonbinary-codes
 date: 1999-01-01
 venue: 'IEEE Commun. Lett.'
 paperurl: ''

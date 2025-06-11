@@ -2,7 +2,7 @@
 title: "Hybrid Vector Perturbation Precoding: The Blessing of Approximate Message Passing"
 collection: publications
 category: manuscripts
-permalink: /publication/lyu2019hybrid
+permalink: /publication/2019-01-01-lyu-hybrid-vector-perturbation
 date: 2019-01-01
 venue: 'IEEE Trans. Signal Processing'
 paperurl: 'https://arxiv.org/abs/1710.03791'

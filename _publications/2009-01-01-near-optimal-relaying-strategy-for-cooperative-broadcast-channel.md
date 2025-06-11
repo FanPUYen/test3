@@ -2,7 +2,7 @@
 title: "Near-optimal relaying strategy for cooperative broadcast channel"
 collection: publications
 category: conferences
-permalink: /publication/near-optimal-relaying-strategy-for-cooperative-broadcast-channel
+permalink: /publication/2009-01-01-near-optimal-relaying-strategy-for-cooperative-broadcast-channel
 date: 2009-01-01
 venue: 'ICC’09'
 paperurl: ''

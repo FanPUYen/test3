@@ -2,7 +2,7 @@
 title: "Feasibility condition for interference alignment with diversity"
 collection: publications
 category: manuscripts
-permalink: /publication/feasibility-condition-for-interference-alignment-with-diversity
+permalink: /publication/2011-01-01-feasibility-condition-for-interference-alignment-with-diversity
 date: 2011-01-01
 venue: 'IEEE Trans. Inform. Theory'
 paperurl: ''

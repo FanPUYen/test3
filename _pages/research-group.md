@@ -80,8 +80,4 @@ Departmental funding is available to support PhD students. The College also runs
 - Junfan Hu, Xi'an University of Electronic Science and Technology, China (2023)
 - Anqi Hu, Chongqing University of Posts and Telecommunications, China (2023)
 - Jiaqi Liu, Nankai University, China (2024)
-=======
-permalink: /research-group/
-title: "Research Group"
-author_profile: true
----
+

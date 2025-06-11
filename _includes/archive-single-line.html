@@ -7,6 +7,6 @@
     <a href="{{ post.paperurl }}">{{ post.title }}</a>
   {% else %}
     <a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a>
-  {% endif %}{% if post.venue %}, <i>{{ post.venue }}</i>{% endif %}{% unless post.citation %}{% if post.date %}, {{ post.date | date: '%Y' }}{% endif %}{% endunless %}
+    {% endif %}{% if post.venue %}, <i>{{ post.venue }}</i>{% endif %}{% if post.date %}, {{ post.date | date: '%Y' }}{% endif %}
 </li>
 

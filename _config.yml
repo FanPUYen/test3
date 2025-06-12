@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Cong Ling's Homepage"
 title_separator          : "-"
-name                     : &name "Cong Ling"
+name                     : &name "Cong Ling (凌聪)"
 description              : &description "personal description"
 url                      : https://fanpuyen.github.io
 baseurl                  : "/test3" # the subpath of your site, e.g. "/blog"

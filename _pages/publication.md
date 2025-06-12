@@ -24,4 +24,3 @@ author_profile: true
 - Towards understanding weighted bit-flipping decoding, IEEE Int. Symp. Inform. Theory’07, Nice, France, 2007.
 
 ### Books
-- None yet.

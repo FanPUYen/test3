@@ -150,17 +150,3 @@ author_profile: true
 ### Book/Book Chapter
 - Daniel Valderas, Juan Ignaco Sancho, David Puente, Cong Ling, and Xiaodong Chen, *Ultrawideband Antennas: Design and Applications*, Imperial College Press, 2010.
 - Haishi Ning and Cong Ling, "Network coding in heterogeneous wireless networks," in *Heterogeneous Cellular Networks*, eds Xiaoli Chu and David Lopez Perez, Cambridge University Press, to be published in 2012.
-
-### Talks
-- Workshop on interactions between number theory and wireless communication, York University, 2016.
-- Algebraic number theory for coding and cryptography, Durham Workshop on Interactions between algebra, coding theory and cryptography, 2016.
-- [Achieving Secrecy Capacity With Polar Codes and Polar Lattices](http://laneas.com/sites/default/files/attachments/20150923/Ling2015Achieving.pdf), Mathematical Tools of Information-Theoretic Security Workshop, Paris, 2015.
-- Lattice Gaussian distributions: A new tool for coding and security, Oxford University, 2014.
-- [Secrecy coding for the wiretap channel: lattices and number theory](http://www.commsp.ee.ic.ac.uk/~cling/maths.york.ac.uk/www/sites/default/files/Wiretap-York-slides.pdf), Workshop on interactions between number theory and wireless communication, York University, 2014.
-- Lattice coding for communications and security: Two sides of one coin, Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany, 2012.
-- Bounded-distance lattice decoding and proximity factors, International Workshop on Coding and Cryptology, Qingdao, China, 2011.
-- Lattices in communications, Lattice Algorithmics Workshop, CIRM, Marseille, France, 2010.
-- Lattice reduction for MIMO communications: From VBLAST to LLL and beyond, University of Leeds, 2009.
-- Gallager bounds for single and multi-antenna codes in fading channels, Hong Kong University of Science and Technology, China, 2009.
-- On the complexity of lattice precoding for MIMO broadcast, Information Theory and Applications (ITA) Workshop, University of California at San Diego, US, 2008.
-- Lattice decoding for digital communications: Where Minkowski meets Shannon, ENS Lyon, France, 2007; Cambridge University, UK, 2008.

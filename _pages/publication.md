@@ -205,6 +205,6 @@ author_profile: true
 
 <hr style="border: none; height: 4px; background-color: #333;" />
 
-- Antonio Campello, Cong Ling, “[Random Algebraic Lattices and Codes](https://link.springer.com/chapter/10.1007/978-3-030-61303-7_5)”, in *Number Theory Meets Wireless Communications*, pp. 143–177, Springer, 2020.  
+- Antonio Campello, Cong Ling, “[Random Algebraic Lattices and Codes](https://link.springer.com/chapter/10.1007/978-3-030-61303-7_4)”, in *Number Theory Meets Wireless Communications*, pp. 143–177, Springer, 2020.  
 - Daniel Valderas, Juan Ignaco Sancho, David Puente, Cong Ling, and Xiaodong Chen, *Ultrawideband Antennas: Design and Applications*, Imperial College Press, 2010.
 - Haishi Ning and Cong Ling, "Network coding in heterogeneous wireless networks," in *Heterogeneous Cellular Networks*, eds Xiaoli Chu and David Lopez Perez, Cambridge University Press, to be published in 2012.

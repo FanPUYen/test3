@@ -87,3 +87,4 @@ Departmental funding is available to support PhD students. The College also runs
 ![Group 2]({{ base_path }}/images/group/IMG-20241126-WA0002.jpg){: width="300"}
 ![Group 3]({{ base_path }}/images/group/IMG-20250208-WA0000.jpg){: width="300"}
 ![Group 4]({{ base_path }}/images/group/IMG-20250331-WA0001.jpg){: width="300"}
+![Group 5]({{ base_path }}/images/group/IMG-20241210-WA0002.jpg){: width="300"}

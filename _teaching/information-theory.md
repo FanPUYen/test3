@@ -22,24 +22,24 @@ This course will set out the fundamental concepts of information theory. Express
 * **Reference:** *Information Theory and Network Coding*, Raymond W. Yeung, Springer, 2008. Free at <http://iest2.ie.cuhk.edu.hk/~whyeung/book2/>
 * **Reference:** *Lecture Notes on Network Information Theory*, A. E. Gamal and Y.-H. Kim. <http://arxiv.org/abs/1001.3404>
 * **Reference:** *Information Theory, Inference, and Learning Algorithms*, D MacKay, CUP, or free at <http://www.inference.phy.cam.ac.uk/mackay/itila/>
-* Shannon's original paper: [A mathematical theory of communication]({{ base_path }}/teaching/IT/A%20Mathematical%20Theory%20of%20Communication.pdf), Bell System Technical Journal, Vol. 27, pp. 379–423, 623–656, July, October, 1948.
+* Shannon's original paper: [A mathematical theory of communication]({{ base_path }}/_teaching/IT/A%20Mathematical%20Theory%20of%20Communication.pdf), Bell System Technical Journal, Vol. 27, pp. 379–423, 623–656, July, October, 1948.
 
 ## Lecture Slides
 
-[Slides]({{ base_path }}/teaching/IT/Info12.pdf)
+[Slides]({{ base_path }}/_teaching/IT/Info12.pdf)
 
 ## Problem Sheets
 
-[Problems]({{ base_path }}/teaching/IT/probc.pdf)
+[Problems]({{ base_path }}/_teaching/IT/probc.pdf)
 
 ## Past Exam Papers
 
-- [2006]({{ base_path }}/teaching/IT/Info2006.pdf)
-- [2007]({{ base_path }}/teaching/IT/Info2007.pdf)
-- [2008]({{ base_path }}/teaching/IT/Exam_Paper_2008.pdf)
-- [2009]({{ base_path }}/teaching/IT/E4.40ISE4.51SO20CS7.26InfoTheory09PaperSolns.pdf)
-- [2010]({{ base_path }}/teaching/IT/E4.40_Info_Theory_Paper_Solns_2010.pdf)
-- [2011]({{ base_path }}/teaching/IT/EE4-40_Info_Theory_Paper_Solns_2011.pdf)
+- [2006]({{ base_path }}/_teaching/IT/Info2006.pdf)
+- [2007]({{ base_path }}/_teaching/IT/Info2007.pdf)
+- [2008]({{ base_path }}/_teaching/IT/Exam_Paper_2008.pdf)
+- [2009]({{ base_path }}/_teaching/IT/E4.40ISE4.51SO20CS7.26InfoTheory09PaperSolns.pdf)
+- [2010]({{ base_path }}/_teaching/IT/E4.40_Info_Theory_Paper_Solns_2010.pdf)
+- [2011]({{ base_path }}/_teaching/IT/EE4-40_Info_Theory_Paper_Solns_2011.pdf)
 
 ## Frequently Asked Questions
 

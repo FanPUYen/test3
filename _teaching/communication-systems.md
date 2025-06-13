@@ -24,18 +24,18 @@ What is the course about, and what are the key results; probability and random p
 
 ## Lecture Slides
 
-[PDF]({{ base_path }}/files/Com/Comm2_2012.pdf). Also available in Blackboard.
+[PDF]({{ base_path }}/teaching/Com/Comm2_2012.pdf). Also available in Blackboard.
 
 ## Problem Sheets
 
-[PDF]({{ base_path }}/files/Com/Problems.pdf). Also available in Blackboard.
+[PDF]({{ base_path }}/teaching/Com/Problems.pdf). Also available in Blackboard.
 
 ## Past Exam Papers
 
-- [2008]({{ base_path }}/files/Com/Comm2-08-Exam.pdf)
-- [2009]({{ base_path }}/files/Com/E2.4Commns209PaperSolns.pdf)
-- [2010]({{ base_path }}/files/Com/E2.4%20Commns%202%20Paper%20Solns%202010.pdf)
-- [2011]({{ base_path }}/files/Com/EE2-4%20Commns%202%20Paper%20Solns%202011.pdf)
+- [2008]({{ base_path }}/teaching/Com/Comm2-08-Exam.pdf)
+- [2009]({{ base_path }}/teaching/Com/E2.4Commns209PaperSolns.pdf)
+- [2010]({{ base_path }}/teaching/Com/E2.4%20Commns%202%20Paper%20Solns%202010.pdf)
+- [2011]({{ base_path }}/teaching/Com/EE2-4%20Commns%202%20Paper%20Solns%202011.pdf)
 
 ## Office Hours
 

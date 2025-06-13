@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-<hr style="border: none; height: 4px; background-color: #333;" />
 
 # New
 
@@ -113,7 +112,6 @@ author_profile: true
 - Ling Cong and Sun Songgeng, "Chaotic frequency hopping sequences," IEEE Trans. Commun., vol. 46, pp. 1433-1437, Nov. 1998.
 **---**
 
-<hr style="border: none; height: 4px; background-color: #333;" />
 
 # Conference Papers
 
@@ -188,8 +186,6 @@ author_profile: true
 - Cong Ling and Xiaofu Wu, "Linear prediction receiver for differential space-time modulation over time-correlated Rayleigh fading channels," ICC 2002, New York.
 - Xiaofu Wu, Cong Ling and Haige Xiang, "Despreading chip waveform design for coherent delay-locked tracking in DS/SS systems," ICC 2002, New York.
 **---**
-
-<hr style="border: none; height: 4px; background-color: #333;" />
 
 # Book/Book Chapter
 

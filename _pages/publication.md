@@ -29,6 +29,10 @@ author_profile: true
 
 <hr style="border: none; height: 4px; background-color: #333;" />
 
+- Christian Porter, Edmund Dable-Heath, Cong Ling, “[A new bound for the orthogonality defect of HKZ reduced lattices](https://doi.org/10.1007/s40993-024-00554-1)”, *Research in Number Theory*, vol. 10, no. 3, p. 65, Jul. 2024.  
+- Andrew Mendelsohn, Cong Ling, “[Fractional non-norm elements for division algebras, and an application to Cyclic Learning with Errors](https://doi.org/10.3934/amc.2023043)”, *Advances in Mathematics of Communications*, vol. 18, no. 2, pp. 410–424, Apr. 2024.  
+- Shanxiang Lyu, Ling Liu, Cong Ling, Junzuo Lai, Hao Chen, “[Lattice codes for lattice-based PKE](https://doi.org/10.1007/s10623-023-01321-6)”, *Designs, Codes and Cryptography*, vol. 92, no. 4, pp. 917–939, Apr. 2024.  
+- Zheng Wang, Ying Xia, Cong Ling, You Huang, “[Randomized iterative sampling decoding algorithm for large-scale MIMO detection](https://doi.org/10.1109/TSP.2024.3516502)”, *IEEE Transactions on Signal Processing*, vol. 72, pp. 580–593, 2024.
 - Rafael Cerna Loli, Onur Dizdar, Bruno Clerckx, Cong Ling, “[Model-based deep learning receiver design for rate-splitting multiple access](https://doi.org/10.1109/TWC.2023.3262361)”, *IEEE Transactions on Wireless Communications*, vol. 22, no. 11, pp. 8352–8365, Nov. 2023.  
 - Laura Luzzi, Cong Ling, Matthieu R. Bloch, “[Optimal rate-limited secret key generation from Gaussian sources using lattices](https://doi.org/10.1109/TIT.2023.3266033)”, *IEEE Transactions on Information Theory*, vol. 69, no. 8, pp. 4944–4960, Aug. 2023.  
 - Jiabo Wang, Cong Ling, “[Polar sampler: A novel Bernoulli sampler using polar codes with application to integer Gaussian sampling](https://doi.org/10.1007/s10623-022-01164-7)”, *Designs, Codes and Cryptography*, vol. 91, no. 5, pp. 1779–1811, May 2023.  
@@ -121,6 +125,11 @@ author_profile: true
 
 <hr style="border: none; height: 4px; background-color: #333;" />
 
+- Cong Ling, Jingbo Liu, Andrew Mendelsohn, “[On the spinor genus and the distinguishing lattice isomorphism problem](https://doi.org/10.1007/978-981-96-0894-2_11)”, *International Conference on the Theory and Application of Cryptology and Information Security (ASIACRYPT 2024)*, pp. 199–219, 2024.  
+- Ling Liu, Shanxiang Lyu, Cong Ling, Baoming Bai, “[On the quantization goodness of polar lattices](https://arxiv.org/abs/2405.04051)”, *2024 IEEE Information Theory Workshop (ITW)*, pp. 348–353, Jul. 2024.  
+- Juliana G. F. Souza, Sueli I. R. Costa, Cong Ling, “[Construction πₐ Lattices Extended to Hurwitz Quaternion Integers](https://doi.org/10.1109/ISIT57864.2024.10619280)”, *2024 IEEE International Symposium on Information Theory (ISIT)*, pp. 2186–2191, Jul. 2024.  
+- Ling Liu, Shanxiang Lyu, Cong Ling, Baoming Bai, “[On the equivalence between probabilistic shaping and geometric shaping: a polar lattice perspective](https://doi.org/10.1109/ISIT57864.2024.10619280)”, *2024 IEEE International Symposium on Information Theory (ISIT)*, pp. 2174–2179, Jul. 2024.  
+- Cong Ling, Andrew Mendelsohn, “[Algebraic Equipage for Learning with Errors in Cyclic Division Algebras](https://eprint.iacr.org/2024/1617)”, *International Conference on Number-Theoretic Methods in Cryptology 2024*, pp. 175–205, Oct. 2024.  
 - Cong Ling, Andrew Mendelsohn, “[Middle-Products of Skew Polynomials and Learning with Errors](https://doi.org/10.1007/978-3-031-47818-5_11)”, *IMA International Conference on Cryptography and Coding*, pp. 199–219, Dec. 2023.  
 - Mengfan Zheng, Cong Ling, “[PAC Codes for Source and Joint Source-Channel Coding](https://doi.org/10.1109/GCWkshps58843.2023.10464862)”, *2023 IEEE Globecom Workshops (GC Wkshps)*, pp. 1542–1547, Aug. 2023.  
 - Cong Ling, Andrew Mendelsohn, “[NTRU in Quaternion Algebras of Bounded Discriminant](https://doi.org/10.1007/978-3-031-40003-2_10)”, *International Conference on Post-Quantum Cryptography*, pp. 256–290, 2023.  

@@ -126,7 +126,7 @@ author_profile: true
 
 <hr style="border: none; height: 4px; background-color: #333;" />
 
-- Sebastian Stern, Cong Ling, Cornelia Ott, Robert F. H. Fischer, “[Quaternionic Minkowski Reduction and Its Application in Dual-Polarized MIMO Systems](https://doi.org/10.1109/IEEECONF62907)”, *14th International ITG Conference on Systems, Communications and Coding (SCC)*, Mar. 2025. 
+- Sebastian Stern, Cong Ling, Cornelia Ott, Robert F. H. Fischer, “[Quaternionic Minkowski Reduction and Its Application in Dual-Polarized MIMO Systems](https://ieeexplore.ieee.org/document/10949104)”, *14th International ITG Conference on Systems, Communications and Coding (SCC)*, Mar. 2025. 
 - Cong Ling, Jingbo Liu, Andrew Mendelsohn, “[On the spinor genus and the distinguishing lattice isomorphism problem](https://doi.org/10.1007/978-981-96-0894-2_11)”, *International Conference on the Theory and Application of Cryptology and Information Security (ASIACRYPT 2024)*, pp. 199–219, 2024.  
 - Ling Liu, Shanxiang Lyu, Cong Ling, Baoming Bai, “[On the quantization goodness of polar lattices](https://arxiv.org/abs/2405.04051)”, *2024 IEEE Information Theory Workshop (ITW)*, pp. 348–353, Jul. 2024.  
 - Juliana G. F. Souza, Sueli I. R. Costa, Cong Ling, “[Construction πₐ Lattices Extended to Hurwitz Quaternion Integers](https://doi.org/10.1109/ISIT57864.2024.10619280)”, *2024 IEEE International Symposium on Information Theory (ISIT)*, pp. 2186–2191, Jul. 2024.  

@@ -29,7 +29,14 @@ author_profile: true
 
 <hr style="border: none; height: 4px; background-color: #333;" />
 
-
+- Shanxiang Lyu, Zheng Wang, Cong Ling, Hao Chen, “[Better Lattice Quantizers Constructed from Complex Integers](https://doi.org/10.1109/TCOMM.2022.3215685)”, *IEEE Transactions on Communications*, vol. 70, no. 12, pp. 7932–7940, Dec. 2022.  
+- Yifeng Rocky Zhu, David Joseph, Cong Ling, Florian Mintert, “[Iterative Quantum Optimization with an Adaptive Problem Hamiltonian for the Shortest Vector Problem](https://doi.org/10.1103/PhysRevA.106.022435)”, *Physical Review A*, vol. 106, no. 2, 022435, 29 Aug. 2022.  
+- Nitish Mital, Cong Ling, Deniz Gündüz, “[Secure Distributed Matrix Computation with Discrete Fourier Transform](https://doi.org/10.1109/TIT.2022.3158868)”, *IEEE Transactions on Information Theory*, vol. 68, no. 7, pp. 4666–4680, Jul. 2022.  
+- Sebastian Stern, Cong Ling, Robert F. H. Fischer, “[Algorithms and Bounds for Complex and Quaternionic Lattices With Application to MIMO Transmission](https://doi.org/10.1109/TIT.2022.3151061)”, *IEEE Transactions on Information Theory*, vol. 68, no. 7, pp. 4491–4517, Jul. 2022.  
+- David Joseph, Adam J. Martinez, Cong Ling, Florian Mintert, “[Quantum Mean-Value Approximator for Hard Integer-Value Problems](https://doi.org/10.1103/PhysRevA.105.052419)”, *Physical Review A*, vol. 105, no. 5, 052419, May 2022.  
+- Charles Grover, Andrew Mendelsohn, Cong Ling, Roope Vehkalahti, “[Non-commutative Ring Learning with Errors from Cyclic Algebras](https://doi.org/10.1007/s00145-022-09430-6)”, *Journal of Cryptology*, vol. 35, no. 3, p. 22, 2022.  
+- Jia-Bo Wang, Ling Liu, Shanxiang Lyu, Zheng Wang, Mengfan Zheng, Fuchun Lin, Zhiming Chen, Lei Yin, Xiaofu Wu, et al., “[Quantum-Safe Cryptography: Crossroads of Coding Theory and Cryptography](https://doi.org/10.1007/s11432-021-3354-7)”, *Science China Information Sciences*, vol. 65, no. 1, 111301, Jan. 2022.  
+- Bob Ross, Cong Ling, “[Wang Algebra: From Theory to Practice](https://doi.org/10.1109/OJCAS.2022.3217065)”, *IEEE Open Journal of Circuits and Systems*, vol. 3, pp. 274–285, Jan. 2022.  
 - Nitish Mital, Katina Kralevska, Cong Ling, Deniz Gündüz, “[Functional Broadcast Repair of Multiple Partial Failures in Wireless Distributed Storage Systems](https://ieeexplore.ieee.org/document/9608961)”, *IEEE Journal on Selected Areas in Information Theory*, vol. 2, no. 4, pp. 1093–1107, 2021.  
 - Jiabo Wang, Cong Ling, “[How to Construct Polar Codes for Ring-LWE-Based Public Key Encryption](https://www.mdpi.com/1099-4300/23/8/938)”, *Entropy*, vol. 23, no. 8, art. 938, 2021.  
 - Ling Liu, Jinwen Shi, Cong Ling, “[Polar Lattices for Lossy Compression](https://doi.org/10.1109/TIT.2021.3097965)”, *IEEE Transactions on Information Theory*, vol. 67, no. 9, pp. 6140–6163, 2021.  
@@ -108,6 +115,7 @@ author_profile: true
 
 <hr style="border: none; height: 4px; background-color: #333;" />
 
+- Cong Ling, “[K.T. Wang (Wang Algebra) – Updated Expanded History](https://ibis.org/summits/may22/ross.pdf)”, *Virtual European IBIS Summit*, Siegen, Germany, 26 May 2022.
 - Mengfan Zheng, Jiaqi Gu, Mengyao Ma, Cong Ling, “[Joint Source-Channel Polar Coding for Biased Bernoulli Sources at Short Blocklengths](https://dblp.org/rec/conf/istc/ZhengGM021)”, *2021 International Symposium on Topics in Coding (ISTC)*, pp. 1–5, 2021.  
 - Charbel Saliba, Laura Luzzi, Cong Ling, “[A Reconciliation Approach to Key Generation Based on Module-LWE](https://doi.org/10.1109/ISIT45174.2021.9517882)”, *Proc. IEEE International Symposium on Information Theory (ISIT)*, pp. 1636–1641, 2021.  
 - Zheng Wang, Yili Xia, Shanxiang Lyu, Cong Ling, “[Reinforcement Learning-Aided Markov Chain Monte Carlo for Lattice Gaussian Sampling](https://doi.org/10.1109/ITW48936.2021.9611412)”, *2021 IEEE Information Theory Workshop (ITW)*, pp. 1–5, 2021.  

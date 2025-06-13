@@ -8,11 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-{% if site.author.avatar contains '://' %}
-![Cong]({{ site.author.avatar }}){: .alignright width="200" height="300"}
-{% else %}
-![Cong]({{ base_path }}/images/{{ site.author.avatar }}){: .alignright width="200" height="300"}
-{% endif %}
+![Cong](http://www.ee.ic.ac.uk/msc_csp/images/CongLing.jpg){: .alignright width="200" height="300"}
 
 **Cong Ling** (凌聪)  
 [Communications and Signal Processing Group](http://www3.imperial.ac.uk/commssigproc)  

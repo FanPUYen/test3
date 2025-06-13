@@ -7,7 +7,7 @@ author_profile: true
 
 <hr />
 
-## ** New**
+## **New**
 
 <hr />
 - Charles Grover, Cong Ling, Roope Vehkalahti, "[Non-Commutative Ring Learning With Errors From Cyclic Algebras](https://eprint.iacr.org/2019/680)", submitted.

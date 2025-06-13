@@ -27,6 +27,7 @@ author_profile: true
 ## **Journal Papers**
 
 <hr />
+
 - Rafael Cerna Loli, Onur Dizdar, Bruno Clerckx, Cong Ling, "[Model-based deep learning receiver design for rate-splitting multiple access](https://ieeexplore.ieee.org/abstract/document/10091798/)", *IEEE Transactions on Wireless Communications*, vol. 22, no. 11, pp. 8352–8365, 2023.  
 - Nitish Mital, Cong Ling, Deniz Gündüz, "[Secure distributed matrix computation with discrete Fourier transform](https://ieeexplore.ieee.org/abstract/document/9732990/)", *IEEE Transactions on Information Theory*, vol. 68, no. 7, pp. 4666–4680, 2022.  
 - Charles Grover, Andrew Mendelsohn, Cong Ling, Roope Vehkalahti, "[Non-commutative ring learning with errors from cyclic algebras](https://link.springer.com/article/10.1007/s00145-022-09430-6/)", *Journal of Cryptology*, vol. 35, no. 3, p. 22, 2022.  

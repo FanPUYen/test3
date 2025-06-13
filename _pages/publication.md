@@ -113,11 +113,12 @@ author_profile: true
 - Ling Cong and Sun Songgeng, "Chaotic frequency hopping sequences," IEEE Trans. Commun., vol. 46, pp. 1433-1437, Nov. 1998.
 **---**
 
-<hr />
+<hr style="border: none; height: 4px; background-color: #333;" />
 
-# **Conference Papers**
+# Conference Papers
 
-<hr />
+<hr style="border: none; height: 4px; background-color: #333;" />
+
 
 - Jinwen Shi, Cong Ling, Osvaldo Simeone, Jörg Kliewer, "[Coded Computation Against Straggling Channel Decoders in the Cloud for Gaussian Channels](https://arxiv.org/abs/1805.11698)", ISIT 2020.
 - Nitish Mital, Deniz Günduz, Cong Ling, "[Coded caching in a Multi-Server System with Random Topology](https://arxiv.org/abs/1712.00649)", WCNC 2018.

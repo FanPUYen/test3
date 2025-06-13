@@ -26,13 +26,9 @@ Email: [c.ling@imperial.ac.uk](mailto:c.ling@imperial.ac.uk)
 
 [Direction](http://www.imperial.ac.uk/visit/campuses/south-kensington/)
 
-### Events
 
-- [Lattice Coding & Crypto Meeting](http://malb.io/discrete-subgroup)
-- [NTC Reading group](http://www.commsp.ee.ic.ac.uk/~cling/NTC/ntc.htm)
-- [Workshop on Diophantine approximation and related fields: York 2017](https://www.york.ac.uk/maths/events/2017/workshop-on-diophantine-approximation-and-related/)
-- [Workshop on interactions between number theory and wireless communication: York2016](http://maths.york.ac.uk/www/York2016)
-- [Are lattice codes ready for application in future networks?](https://conferences.telecom-bretagne.eu/data/turbocodes/Symposium2016/Program/booklet_ISTC2016.pdf)
+## Biography
 
-**Post-quantum research paper featured as Editor’s pick in _Physical Review A_.**  
-For more details, see [https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.032433](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.032433)
+Cong Ling is currently a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank)){:target="_blank"} (equivalent to Professor/Associate Professor) in the Electrical and Electronic Engineering Department at Imperial College London. He is a member of the [Academic Centre of Excellence in Cyber Security Research](http://www3.imperial.ac.uk/securesoftwaresystems) at Imperial College and an affiliated member of the [Institute of Security Science and Technology](http://www3.imperial.ac.uk/securityinstitute) of Imperial College.
+
+Dr. Ling has been an Associate Editor (in multiterminal communications and lattice coding) of IEEE Transactions on Communications, and an Associate Editor of IEEE Transactions on Vehicular Technology. He is a member of IEEE.

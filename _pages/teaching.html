@@ -7,23 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
+{% assign current_teaching = site.teaching | where: "status", "current" | sort: "date" | reverse %}
+{% assign past_teaching = site.teaching | where: "status", "past" | sort: "date" | reverse %}
 
-{% assign current_teaching = site.teaching | where: "status", "current" %}
-{% assign past_teaching = site.teaching | where: "status", "past" %}
-
-
-<h2>Courses</h2>
-<p>Current:</p>
-<ul>
+<h2>Current Courses</h2>
 {% for post in current_teaching %}
-<li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+  {% include archive-single.html %}
 {% endfor %}
-</ul>
-<p>Past:</p>
-<ul>
+
+<h2>Past Courses</h2>
 {% for post in past_teaching %}
-<li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+  {% include archive-single.html %}
 {% endfor %}
-</ul>
-
-

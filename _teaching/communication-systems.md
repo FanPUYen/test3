@@ -6,6 +6,7 @@ permalink: /teaching/communication-systems/
 venue: "Imperial College London"
 date: 2024-01-01
 location: "London, UK"
+status: past
 ---
 {% include base_path %}
 

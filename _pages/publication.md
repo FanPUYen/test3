@@ -29,29 +29,14 @@ author_profile: true
 
 <hr style="border: none; height: 4px; background-color: #333;" />
 
-- Rafael Cerna Loli, Onur Dizdar, Bruno Clerckx, Cong Ling, "[Model-based deep learning receiver design for rate-splitting multiple access](https://ieeexplore.ieee.org/abstract/document/10091798/)", *IEEE Transactions on Wireless Communications*, vol. 22, no. 11, pp. 8352–8365, 2023.  
-- Nitish Mital, Cong Ling, Deniz Gündüz, "[Secure distributed matrix computation with discrete Fourier transform](https://ieeexplore.ieee.org/abstract/document/9732990/)", *IEEE Transactions on Information Theory*, vol. 68, no. 7, pp. 4666–4680, 2022.  
-- Charles Grover, Andrew Mendelsohn, Cong Ling, Roope Vehkalahti, "[Non-commutative ring learning with errors from cyclic algebras](https://link.springer.com/article/10.1007/s00145-022-09430-6/)", *Journal of Cryptology*, vol. 35, no. 3, p. 22, 2022.  
-- David Joseph, Adam Callison, Cong Ling, Florian Mintert, "[Two quantum Ising algorithms for the shortest-vector problem](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.032433/)", *Physical Review A*, vol. 103, no. 3, 032433, 2021.  
-- Shanxiang Lyu, Antonio Campello, Cong Ling, "[Ring compute-and-forward over block-fading channels](https://ieeexplore.ieee.org/abstract/document/8756297/)", *IEEE Transactions on Information Theory*, vol. 65, no. 11, pp. 6931–6949, 2019.  
-- Ling Liu, Yanfei Yan, Cong Ling, Xiaofu Wu, "[Construction of capacity-achieving lattice codes: Polar lattices](https://ieeexplore.ieee.org/abstract/document/8492454/)", *IEEE Transactions on Communications*, vol. 67, no. 2, pp. 915–928, 2018.  
-- Ling Liu, Yanfei Yan, Cong Ling, "[Achieving secrecy capacity of the Gaussian wiretap channel with polar lattices](https://ieeexplore.ieee.org/abstract/document/8260522/)", *IEEE Transactions on Information Theory*, vol. 64, no. 3, pp. 1647–1665, 2018.  
-- Jianhua He, Zuoyin Tang, Zuowen Tang, Hsiao-Hwa Chen, Cong Ling, "[Design and optimization of scheduling and non-orthogonal multiple access algorithms with imperfect channel state information](https://ieeexplore.ieee.org/abstract/document/8457230/)", *IEEE Transactions on Vehicular Technology*, vol. 67, no. 11, pp. 10800–10814, 2018.  
-- Xiaofu Wu, Zhen Yang, Cong Ling, Xiang-Gen Xia, "[Artificial-noise-aided physical layer phase challenge-response authentication for practical OFDM transmission](https://ieeexplore.ieee.org/abstract/document/7501833/)", *IEEE Transactions on Wireless Communications*, vol. 15, no. 10, pp. 6611–6625, 2016.  
-- Zheng Wang, Cong Ling, "[On the geometric ergodicity of Metropolis-Hastings algorithms for lattice Gaussian sampling](https://ieeexplore.ieee.org/abstract/document/8013823/)", *IEEE Transactions on Information Theory*, vol. 64, no. 2, pp. 738–751, 2017.  
-- Peng Zhang, Lu Gan, Cong Ling, Sumei Sun, "[Atomic norm denoising-based joint channel estimation and faulty antenna detection for massive MIMO](https://ieeexplore.ieee.org/abstract/document/8053836/)", *IEEE Transactions on Vehicular Technology*, vol. 67, no. 2, pp. 1389–1403, 2017.  
-- Cong Ling, Wai Ho Mow, Nick Howgrave-Graham, "[Reduced and fixed-complexity variants of the LLL algorithm for communications](https://ieeexplore.ieee.org/abstract/document/6403874/)", *IEEE Transactions on Communications*, vol. 61, no. 3, pp. 1040–1050, 2013.  
-- Zheng Wang, Shuiyin Liu, Cong Ling, "[Decoding by sampling—Part II: Derandomization and soft-output decoding](https://ieeexplore.ieee.org/abstract/document/6648351/)", *IEEE Transactions on Communications*, vol. 61, no. 11, pp. 4630–4639, 2013.  
-- Khalid Nur, Shaojun Feng, Cong Ling, Washington Ochieng, "[Integration of GPS with a WiFi high accuracy ranging functionality](https://www.tandfonline.com/doi/abs/10.1080/10095020.2013.817106/)", *Geo-Spatial Information Science*, vol. 16, no. 3, pp. 155–168, 2013.  
-- Cong Ling, Laura Luzzi, Jean-Claude Belfiore, Damien Stehlé, "[Semantically secure lattice codes for the Gaussian wiretap channel](https://ieeexplore.ieee.org/abstract/document/6866169/)", *IEEE Transactions on Information Theory*, vol. 60, no. 10, pp. 6399–6416, 2014.  
-- Cong Ling, Jean-Claude Belfiore, "[Achieving AWGN channel capacity with lattice Gaussian coding](https://ieeexplore.ieee.org/abstract/document/6841610/)", *IEEE Transactions on Information Theory*, vol. 60, no. 10, pp. 5918–5929, 2014.  
-- Xiaofu Wu, Cong Ling, Ming Jiang, Enyang Xu, Chunming Zhao, Xiaohu You, "[New insights into weighted bit-flipping decoding](https://ieeexplore.ieee.org/abstract/document/5201000/)", *IEEE Transactions on Communications*, vol. 57, no. 8, pp. 2177–2180, 2009.  
-- Ying Hung Gan, Cong Ling, Wai Ho Mow, "[Complex lattice reduction algorithm for low-complexity full-diversity MIMO detection](https://ieeexplore.ieee.org/abstract/document/4787140/)", *IEEE Transactions on Signal Processing*, vol. 57, no. 7, pp. 2701–2710, 2009.  
-- Haishi Ning, Cong Ling, Kin K. Leung, "[Feasibility condition for interference alignment with diversity](https://ieeexplore.ieee.org/abstract/document/5752440/)", *IEEE Transactions on Information Theory*, vol. 57, no. 5, pp. 2902–2912, 2011.  
-- Cong Ling, Kwok H. Li, Alex C. Kot, "[On decision-feedback detection of differential space-time modulation in continuous fading](https://ieeexplore.ieee.org/abstract/document/1350907/)", *IEEE Transactions on Communications*, vol. 52, no. 10, pp. 1613–1617, 2004.  
-- Cong Ling, Wai Ho Mow, Kwok H. Li, Alex C. Kot, "[Multiple-antenna differential lattice decoding](https://ieeexplore.ieee.org/abstract/document/1504915/)", *IEEE Journal on Selected Areas in Communications*, vol. 23, no. 9, pp. 1821–1829, 2005.  
-- Ling Cong, Sun Songgeng, "[Chaotic frequency hopping sequences](https://ieeexplore.ieee.org/abstract/document/729385/)", *IEEE Transactions on Communications*, vol. 46, no. 11, pp. 1433–1437, 1998.
-  
+
+- M. Zheng, A. Hamilton, Cong Ling, “[Covert communications with a full-duplex receiver in non-coherent Rayleigh fading](https://doi.org/10.1109/TCOMM.2020.3041353)”, *IEEE Transactions on Communications*, vol. 69, no. 3, pp. 1882–1895, 2020.  
+- S. Lyu, C. Porter, Cong Ling, “[Lattice reduction over imaginary quadratic fields](https://doi.org/10.1109/TSP.2020.3036647)”, *IEEE Transactions on Signal Processing*, vol. 68, pp. 6380–6393, 2020.  
+- Z. Wang, L. Liu, Cong Ling, “[Sliced lattice Gaussian sampling: Convergence improvement and decoding optimization](https://doi.org/10.1109/TCOMM.2020.3036050)”, *IEEE Transactions on Communications*, vol. 69, no. 4, pp. 2599–2612, 2020.  
+- N. Mital, D. Gündüz, Cong Ling, “[Coded caching in a multi-server system with random topology](https://doi.org/10.1109/TCOMM.2020.2991460)”, *IEEE Transactions on Communications*, vol. 68, no. 8, pp. 4620–4631, 2020.  
+- D. Joseph, A. Ghionis, Cong Ling, F. Mintert, “[Not-so-adiabatic quantum computation for the shortest vector problem](https://doi.org/10.1103/PhysRevResearch.2.013361)”, *Physical Review Research*, vol. 2, no. 1, 013361, 2020.
+
+
 - Shanxiang Lyu, Antonio Campello, Cong Ling, "[Ring Compute-and-Forward over Block-Fading Channels](https://arxiv.org/abs/1805.02073)", IEEE Trans. Inform. Theory, vol. 65, pp. 6931-6949, Nov 2019.
 - Zheng Wang and Cong Ling, "[Lattice Gaussian Sampling by Markov Chain Monte Carlo: Bounded Distance Decoding and Trapdoor Sampling](https://arxiv.org/abs/1704.02673)", IEEE Trans. Inform. Theory, vol. 65, pp. 3630-3645, June 2019.
 - Conghui Li, Lu Gan and Cong Ling, "Coprime Sensing via Chinese Remaindering over Quadratic Fields, [Part I](https://arxiv.org/abs/1808.07505), [Part II](https://arxiv.org/abs/1808.07511)", IEEE Trans. Signal Processing, vol. 67, pp. 2898-2910, 2911-2922, June 2019.
@@ -119,8 +104,7 @@ author_profile: true
 
 <hr style="border: none; height: 4px; background-color: #333;" />
 
-
-- Jinwen Shi, Cong Ling, Osvaldo Simeone, Jörg Kliewer, "[Coded Computation Against Straggling Channel Decoders in the Cloud for Gaussian Channels](https://arxiv.org/abs/1805.11698)", ISIT 2020.
+- J. Shi, Cong Ling, O. Simeone, J. Kliewer, “[Coded computation against straggling channel decoders in the cloud for Gaussian channels](https://doi.org/10.1109/ISIT44484.2020.9174145)”, *Proc. IEEE International Symposium on Information Theory (ISIT)*, pp. 156–161, 2020.  
 - Nitish Mital, Deniz Günduz, Cong Ling, "[Coded caching in a Multi-Server System with Random Topology](https://arxiv.org/abs/1712.00649)", WCNC 2018.
 - Nitish Mital, Katina Kralevska, Deniz Gunduz, Cong Ling, "[Storage-Repair Bandwidth Trade-off for Wireless Caching with Partial Failure and Broadcast Repair](https://arxiv.org/abs/1807.00220)", ITW 2018.
 - Shanxiang Lyu, Christian Porter, Cong Ling, "[Performance Limits of Lattice Reduction over Imaginary Quadratic Fields with Applications to Compute-and-Forward](https://arxiv.org/abs/1806.03113)", ITW 2018.
@@ -193,5 +177,6 @@ author_profile: true
 
 <hr style="border: none; height: 4px; background-color: #333;" />
 
+- A. Campello, Cong Ling, “[Random Algebraic Lattices and Codes for Wireless Communications](https://link.springer.com/chapter/10.1007/978-3-030-61303-7_5)”, in *Number Theory Meets Wireless Communications*, pp. 143–177, Springer, 2020.  
 - Daniel Valderas, Juan Ignaco Sancho, David Puente, Cong Ling, and Xiaodong Chen, *Ultrawideband Antennas: Design and Applications*, Imperial College Press, 2010.
 - Haishi Ning and Cong Ling, "Network coding in heterogeneous wireless networks," in *Heterogeneous Cellular Networks*, eds Xiaoli Chu and David Lopez Perez, Cambridge University Press, to be published in 2012.

@@ -9,7 +9,7 @@ author_profile: true
 <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-# New
+## New
 
 <hr style="border: none; height: 4px; background-color: #333;" />
 
@@ -115,7 +115,7 @@ author_profile: true
 **---**
 
 
-# Conference Papers
+## Conference Papers
 
 <hr style="border: none; height: 4px; background-color: #333;" />
 
@@ -189,7 +189,7 @@ author_profile: true
 - Xiaofu Wu, Cong Ling and Haige Xiang, "Despreading chip waveform design for coherent delay-locked tracking in DS/SS systems," ICC 2002, New York.
 **---**
 
-# Book/Book Chapter
+## Book/Book Chapter
 
 <hr style="border: none; height: 4px; background-color: #333;" />
 

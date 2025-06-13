@@ -16,8 +16,6 @@ author_profile: true
 - Bollauf, Maiara F., Maja Lie, and Cong Ling. "[On Gaussian Sampling for $q$-ary Lattices and Linear Codes with Lee Weight](https://eprint.iacr.org/2025/087)." accepted by *CRYPTO 2025*.
 
 **---**
-
-
 ## Journal Papers
 
 <hr style="border: none; height: 4px; background-color: #333;" />
@@ -115,7 +113,6 @@ author_profile: true
 - Ling Cong and Sun Songgeng, "Chaotic frequency hopping sequences," IEEE Trans. Commun., vol. 46, pp. 1433-1437, Nov. 1998.
 **---**
 
-
 ## Conference Papers
 
 <hr style="border: none; height: 4px; background-color: #333;" />
@@ -208,7 +205,6 @@ author_profile: true
 - Cong Ling and Xiaofu Wu, "Linear prediction receiver for differential space-time modulation over time-correlated Rayleigh fading channels," ICC 2002, New York.
 - Xiaofu Wu, Cong Ling and Haige Xiang, "Despreading chip waveform design for coherent delay-locked tracking in DS/SS systems," ICC 2002, New York.
 **---**
-
 ## Book/Book Chapter
 
 <hr style="border: none; height: 4px; background-color: #333;" />

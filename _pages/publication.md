@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% if site.author.googlescholar %}
+<div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
 
 # New
 
@@ -21,7 +24,6 @@ author_profile: true
 - Antonio Campello, Cong Ling and Jean-Claude Belfiore, "[Semantically Secure Lattice Codes for Compound MIMO Channels](https://arxiv.org/abs/1903.09954)", IEEE Trans. Inform. Theory, vol. 66, pp. 1572-1584, Mar 2020.
 **---**
 
-<hr style="border: none; height: 4px; background-color: #333;" />
 
 ## Journal Papers
 

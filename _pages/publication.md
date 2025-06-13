@@ -30,11 +30,15 @@ author_profile: true
 <hr style="border: none; height: 4px; background-color: #333;" />
 
 
-- M. Zheng, A. Hamilton, Cong Ling, “[Covert communications with a full-duplex receiver in non-coherent Rayleigh fading](https://doi.org/10.1109/TCOMM.2020.3041353)”, *IEEE Transactions on Communications*, vol. 69, no. 3, pp. 1882–1895, 2020.  
-- S. Lyu, C. Porter, Cong Ling, “[Lattice reduction over imaginary quadratic fields](https://doi.org/10.1109/TSP.2020.3036647)”, *IEEE Transactions on Signal Processing*, vol. 68, pp. 6380–6393, 2020.  
-- Z. Wang, L. Liu, Cong Ling, “[Sliced lattice Gaussian sampling: Convergence improvement and decoding optimization](https://doi.org/10.1109/TCOMM.2020.3036050)”, *IEEE Transactions on Communications*, vol. 69, no. 4, pp. 2599–2612, 2020.  
-- N. Mital, D. Gündüz, Cong Ling, “[Coded caching in a multi-server system with random topology](https://doi.org/10.1109/TCOMM.2020.2991460)”, *IEEE Transactions on Communications*, vol. 68, no. 8, pp. 4620–4631, 2020.  
-- D. Joseph, A. Ghionis, Cong Ling, F. Mintert, “[Not-so-adiabatic quantum computation for the shortest vector problem](https://doi.org/10.1103/PhysRevResearch.2.013361)”, *Physical Review Research*, vol. 2, no. 1, 013361, 2020.
+- Nitish Mital, Katina Kralevska, Cong Ling, Deniz Gündüz, “[Functional Broadcast Repair of Multiple Partial Failures in Wireless Distributed Storage Systems](https://ieeexplore.ieee.org/document/9608961)”, *IEEE Journal on Selected Areas in Information Theory*, vol. 2, no. 4, pp. 1093–1107, 2021.  
+- Jiabo Wang, Cong Ling, “[How to Construct Polar Codes for Ring-LWE-Based Public Key Encryption](https://www.mdpi.com/1099-4300/23/8/938)”, *Entropy*, vol. 23, no. 8, art. 938, 2021.  
+- Ling Liu, Jinwen Shi, Cong Ling, “[Polar Lattices for Lossy Compression](https://doi.org/10.1109/TIT.2021.3097965)”, *IEEE Transactions on Information Theory*, vol. 67, no. 9, pp. 6140–6163, 2021.  
+- David Joseph, Adam Callison, Cong Ling, Florian Mintert, “[Two Quantum Ising Algorithms for the Shortest-Vector Problem](https://doi.org/10.1103/PhysRevA.103.032433)”, *Physical Review A*, vol. 103, no. 3, 032433, 2021.  
+- Mengfan Zheng, Alexander Hamilton, Cong Ling, “[Covert Communications with a Full-Duplex Receiver in Non-Coherent Rayleigh Fading](https://doi.org/10.1109/TCOMM.2020.3041353)”, *IEEE Transactions on Communications*, vol. 69, no. 3, pp. 1882–1895, 2020.  
+- Shanxiang Lyu, Christian Porter, Cong Ling, “[Lattice Reduction over Imaginary Quadratic Fields](https://doi.org/10.1109/TSP.2020.3036647)”, *IEEE Transactions on Signal Processing*, vol. 68, pp. 6380–6393, 2020.  
+- Zheng Wang, Ling Liu, Cong Ling, “[Sliced Lattice Gaussian Sampling: Convergence Improvement and Decoding Optimization](https://doi.org/10.1109/TCOMM.2020.3036050)”, *IEEE Transactions on Communications*, vol. 69, no. 4, pp. 2599–2612, 2020.  
+- Nitish Mital, Deniz Gündüz, Cong Ling, “[Coded Caching in a Multi-Server System with Random Topology](https://doi.org/10.1109/TCOMM.2020.2991460)”, *IEEE Transactions on Communications*, vol. 68, no. 8, pp. 4620–4631, 2020.  
+- David Joseph, Alexandros Ghionis, Cong Ling, Florian Mintert, “[Not-so-Adiabatic Quantum Computation for the Shortest Vector Problem](https://doi.org/10.1103/PhysRevResearch.2.013361)”, *Physical Review Research*, vol. 2, no. 1, 013361, 2020.  
 
 
 - Shanxiang Lyu, Antonio Campello, Cong Ling, "[Ring Compute-and-Forward over Block-Fading Channels](https://arxiv.org/abs/1805.02073)", IEEE Trans. Inform. Theory, vol. 65, pp. 6931-6949, Nov 2019.
@@ -104,7 +108,14 @@ author_profile: true
 
 <hr style="border: none; height: 4px; background-color: #333;" />
 
-- J. Shi, Cong Ling, O. Simeone, J. Kliewer, “[Coded computation against straggling channel decoders in the cloud for Gaussian channels](https://doi.org/10.1109/ISIT44484.2020.9174145)”, *Proc. IEEE International Symposium on Information Theory (ISIT)*, pp. 156–161, 2020.  
+- Mengfan Zheng, Jiaqi Gu, Mengyao Ma, Cong Ling, “[Joint Source-Channel Polar Coding for Biased Bernoulli Sources at Short Blocklengths](https://dblp.org/rec/conf/istc/ZhengGM021)”, *2021 International Symposium on Topics in Coding (ISTC)*, pp. 1–5, 2021.  
+- Charbel Saliba, Laura Luzzi, Cong Ling, “[A Reconciliation Approach to Key Generation Based on Module-LWE](https://doi.org/10.1109/ISIT45174.2021.9517882)”, *Proc. IEEE International Symposium on Information Theory (ISIT)*, pp. 1636–1641, 2021.  
+- Zheng Wang, Yili Xia, Shanxiang Lyu, Cong Ling, “[Reinforcement Learning-Aided Markov Chain Monte Carlo for Lattice Gaussian Sampling](https://doi.org/10.1109/ITW48936.2021.9611412)”, *2021 IEEE Information Theory Workshop (ITW)*, pp. 1–5, 2021.  
+- Ling Liu, Shengli Zhang, Cong Ling, “[Set Reconciliation for Blockchains with Slepian-Wolf Coding: Deletion Polar Codes](https://dblp.org/rec/conf/wcsp/LiuZ021)”, *Proc. 13th International Conference on Wireless Communications and Signal Processing (WCSP)*, pp. 1–5, 2021.  
+- Mengfan Zheng, Cong Ling, Xiaofu Wu, “[A Hybrid Polar Coding Design over Non-Coherent Channels](https://dblp.org/rec/conf/wsa/Zheng0W21)”, *Proc. 25th International ITG Workshop on Smart Antennas (WSA)*, pp. 1–5, 2021.  
+- Jinwen Shi, Cong Ling, Osvaldo Simeone, Jörg Kliewer, “[Coded Computation Against Straggling Channel Decoders in the Cloud for Gaussian Channels](https://doi.org/10.1109/ISIT44484.2020.9174145)”, *Proc. IEEE International Symposium on Information Theory (ISIT)*, pp. 156–161, 2020.
+
+- 
 - Nitish Mital, Deniz Günduz, Cong Ling, "[Coded caching in a Multi-Server System with Random Topology](https://arxiv.org/abs/1712.00649)", WCNC 2018.
 - Nitish Mital, Katina Kralevska, Deniz Gunduz, Cong Ling, "[Storage-Repair Bandwidth Trade-off for Wireless Caching with Partial Failure and Broadcast Repair](https://arxiv.org/abs/1807.00220)", ITW 2018.
 - Shanxiang Lyu, Christian Porter, Cong Ling, "[Performance Limits of Lattice Reduction over Imaginary Quadratic Fields with Applications to Compute-and-Forward](https://arxiv.org/abs/1806.03113)", ITW 2018.
@@ -177,6 +188,6 @@ author_profile: true
 
 <hr style="border: none; height: 4px; background-color: #333;" />
 
-- A. Campello, Cong Ling, “[Random Algebraic Lattices and Codes for Wireless Communications](https://link.springer.com/chapter/10.1007/978-3-030-61303-7_5)”, in *Number Theory Meets Wireless Communications*, pp. 143–177, Springer, 2020.  
+- Antonio Campello, Cong Ling, “[Random Algebraic Lattices and Codes](https://link.springer.com/chapter/10.1007/978-3-030-61303-7_5)”, in *Number Theory Meets Wireless Communications*, pp. 143–177, Springer, 2020.  
 - Daniel Valderas, Juan Ignaco Sancho, David Puente, Cong Ling, and Xiaodong Chen, *Ultrawideband Antennas: Design and Applications*, Imperial College Press, 2010.
 - Haishi Ning and Cong Ling, "Network coding in heterogeneous wireless networks," in *Heterogeneous Cellular Networks*, eds Xiaoli Chu and David Lopez Perez, Cambridge University Press, to be published in 2012.

@@ -1,7 +1,7 @@
 ---
 title: "Information Theory"
 collection: teaching
-type: "Undergraduate Course"
+type: "Graduate Course"
 permalink: /teaching/information-theory/
 venue: "Imperial College London"
 date: 2024-01-01

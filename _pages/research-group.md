@@ -4,6 +4,7 @@ title: "Research Group"
 permalink: /research-group/
 author_profile: true
 ---
+{% include base_path %}
 
 I am looking for outstanding and self-motivated PhD students. More information on the application process and funding opportunities is available [here](https://www.imperial.ac.uk/electrical-engineering/study/phd/).
 
@@ -81,3 +82,8 @@ Departmental funding is available to support PhD students. The College also runs
 - Anqi Hu, Chongqing University of Posts and Telecommunications, China (2023)
 - Jiaqi Liu, Nankai University, China (2024)
 
+## Group Photos
+![Group 1]({{ base_path }}/images/group/1749851443807.jpg){: width="300"}
+![Group 2]({{ base_path }}/images/group/IMG-20241126-WA0002.jpg){: width="300"}
+![Group 3]({{ base_path }}/images/group/IMG-20250208-WA0000.jpg){: width="300"}
+![Group 4]({{ base_path }}/images/group/IMG-20250331-WA0001.jpg){: width="300"}

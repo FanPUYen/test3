@@ -13,15 +13,8 @@ author_profile: true
 
 <hr style="border: none; height: 4px; background-color: #333;" />
 
-- Charles Grover, Cong Ling, Roope Vehkalahti, "[Non-Commutative Ring Learning With Errors From Cyclic Algebras](https://eprint.iacr.org/2019/680)", submitted.
-- Jiabo Wang and Cong Ling, "[Polar Sampler: Discrete Gaussian Sampling over the Integers Using Polar Codes](https://eprint.iacr.org/2019/674)", submitted.
-- Shanxiang Lyu, Christian Porter, Cong Ling, "[Lattice Reduction over Imaginary Quadratic Fields](https://arxiv.org/abs/1806.03113)", IEEE Trans. Signal Processing, vol. 68, pp. 6380-6393, Nov. 2020.
-- Ling Liu, Jinwen Shi, and Cong Ling, "[Polar Lattices for Lossy Compression](http://arxiv.org/abs/1501.05683)", IEEE Trans. Inform. Theory, to appear.
-- N. Mital, C. Ling and D. Gunduz, "[Secure Distributed Matrix Computation with Discrete Fourier Transform](https://arxiv.org/abs/2007.03972)", submitted.
-- N. Mital, D. Gunduz and C. Ling, "[Coded Caching in a Multi-Server SystemWith Random Topology](https://arxiv.org/abs/2003.05058)", IEEE Trans. Comm., vol. 68, no. 8, pp. 4620-4631, Aug. 2020.
-- David Joseph, Adam Callison, Cong Ling, Florian Mintert, "[Two quantum Ising algorithms for the Shortest Vector Problem](https://arxiv.org/abs/2006.14057)", Physical Review A, 103, 032433, March 2021.
-- David Joseph, Alexandros Ghionis, Cong Ling, and Florian Mintert, "[Not-so-adiabatic quantum computation for the shortest vector problem](https://arxiv.org/abs/1910.10462)", Physical Review Research, Vol. 2, 013361, 2020.
-- Antonio Campello, Cong Ling and Jean-Claude Belfiore, "[Semantically Secure Lattice Codes for Compound MIMO Channels](https://arxiv.org/abs/1903.09954)", IEEE Trans. Inform. Theory, vol. 66, pp. 1572-1584, Mar 2020.
+-Bollauf, Maiara F., Maja Lie, and Cong Ling. "[On Gaussian Sampling for $q$-ary Lattices and Linear Codes with Lee Weight](https://eprint.iacr.org/2025/087)." accepted by *CRYPTO 2025*.
+
 **---**
 
 

@@ -103,7 +103,11 @@ author_profile: true
 - Ling Cong and Sun Songgeng, "Chaotic frequency hopping sequences," IEEE Trans. Commun., vol. 46, pp. 1433-1437, Nov. 1998.
 **---**
 
-## Conference Papers
+<hr />
+
+## **Conference Papers**
+
+<hr />
 - Jinwen Shi, Cong Ling, Osvaldo Simeone, Jörg Kliewer, "[Coded Computation Against Straggling Channel Decoders in the Cloud for Gaussian Channels](https://arxiv.org/abs/1805.11698)", ISIT 2020.
 - Nitish Mital, Deniz Günduz, Cong Ling, "[Coded caching in a Multi-Server System with Random Topology](https://arxiv.org/abs/1712.00649)", WCNC 2018.
 - Nitish Mital, Katina Kralevska, Deniz Gunduz, Cong Ling, "[Storage-Repair Bandwidth Trade-off for Wireless Caching with Partial Failure and Broadcast Repair](https://arxiv.org/abs/1807.00220)", ITW 2018.
@@ -173,6 +177,6 @@ author_profile: true
 - Xiaofu Wu, Cong Ling and Haige Xiang, "Despreading chip waveform design for coherent delay-locked tracking in DS/SS systems," ICC 2002, New York.
 **---**
 
-### Book/Book Chapter
+## Book/Book Chapter
 - Daniel Valderas, Juan Ignaco Sancho, David Puente, Cong Ling, and Xiaodong Chen, *Ultrawideband Antennas: Design and Applications*, Imperial College Press, 2010.
 - Haishi Ning and Cong Ling, "Network coding in heterogeneous wireless networks," in *Heterogeneous Cellular Networks*, eds Xiaoli Chu and David Lopez Perez, Cambridge University Press, to be published in 2012.

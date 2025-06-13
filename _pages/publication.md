@@ -131,16 +131,16 @@ author_profile: true
 - Charbel Saliba, Laura Luzzi, Cong Ling, “[A Reconciliation Approach to Key Generation Based on Module-LWE](https://doi.org/10.1109/ISIT45174.2021.9517882)”, *Proc. IEEE International Symposium on Information Theory (ISIT)*, pp. 1636–1641, 2021.  
 - Zheng Wang, Yili Xia, Shanxiang Lyu, Cong Ling, “[Reinforcement Learning-Aided Markov Chain Monte Carlo for Lattice Gaussian Sampling](https://doi.org/10.1109/ITW48936.2021.9611412)”, *2021 IEEE Information Theory Workshop (ITW)*, pp. 1–5, 2021.  
 - Ling Liu, Shengli Zhang, Cong Ling, “[Set Reconciliation for Blockchains with Slepian-Wolf Coding: Deletion Polar Codes](https://dblp.org/rec/conf/wcsp/LiuZ021)”, *Proc. 13th International Conference on Wireless Communications and Signal Processing (WCSP)*, pp. 1–5, 2021.  
-- Mengfan Zheng, Cong Ling, Xiaofu Wu, “[A Hybrid Polar Coding Design over Non-Coherent Channels](https://dblp.org/rec/conf/wsa/Zheng0W21)”, *Proc. 25th International ITG Workshop on Smart Antennas (WSA)*, pp. 1–5, 2021.  
+- Mengfan Zheng, Cong Ling, Xiaofu Wu, “[A Hybrid Polar Coding Design over Non-Coherent Channels](https://ieeexplore.ieee.org/abstract/document/9739204)”, *Proc. 25th International ITG Workshop on Smart Antennas (WSA)*, pp. 1–5, 2021.  
 - Jinwen Shi, Cong Ling, Osvaldo Simeone, Jörg Kliewer, “[Coded Computation Against Straggling Channel Decoders in the Cloud for Gaussian Channels](https://doi.org/10.1109/ISIT44484.2020.9174145)”, *Proc. IEEE International Symposium on Information Theory (ISIT)*, pp. 156–161, 2020.
 - Christian Porter, Shanxiang Lyu, Cong Ling, “[On the Optimality of Gauss’s Algorithm over Euclidean Imaginary Quadratic Fields](https://doi.org/10.1109/ITW44776.2019.8989175)”, *2019 IEEE Information Theory Workshop (ITW)*, pp. 1–5, Nov. 2019.  
 - Mengfan Zheng, Ling Liu, Cong Ling, “[On the Polarization of Rényi Entropy](https://arxiv.org/abs/1907.06423)”, *2019 IEEE International Symposium on Information Theory (ISIT)*, pp. 2094–2098, Jul. 2019.  
 - Zheng Wang, Cong Ling, “[Slice Sampling for Lattice Gaussian Distribution](https://doi.org/10.1109/ISIT.2019.8849404)”, *2019 IEEE International Symposium on Information Theory (ISIT)*, pp. 2589–2593, Jul. 2019.  
 - Nitish Mital, Katina Kralevska, Cong Ling, Deniz Gündüz, “[Practical Functional Regenerating Codes for Broadcast Repair of Multiple Nodes](https://doi.org/10.1109/ISIT.2019.8849496)”, *2019 IEEE International Symposium on Information Theory (ISIT)*, pp. 221–225, Jul. 2019.  
-- Cong Li, Liang Gan, Cong Ling, “[3D Coprime Arrays in Sparse Sensing](https://doi.org/10.1109/ICASSP.2019.8683606)”, *ICASSP 2019*, pp. 4200–4204, May 2019.
+- Cong Li, Liang Gan, Cong Ling, “[3D Coprime Arrays in Sparse Sensing](https://ieeexplore.ieee.org/abstract/document/8682839)”, *ICASSP 2019*, pp. 4200–4204, May 2019.
 - Nitish Mital, Deniz Günduz, Cong Ling, "[Coded caching in a Multi-Server System with Random Topology](https://arxiv.org/abs/1712.00649)", WCNC 2018.
 - Nitish Mital, Katina Kralevska, Deniz Gunduz, Cong Ling, "[Storage-Repair Bandwidth Trade-off for Wireless Caching with Partial Failure and Broadcast Repair](https://arxiv.org/abs/1807.00220)", ITW 2018.
-- Shanxiang Lyu, Christian Porter, Cong Ling, "[Performance Limits of Lattice Reduction over Imaginary Quadratic Fields with Applications to Compute-and-Forward](https://arxiv.org/abs/1806.03113)", ITW 2018.
+- Shanxiang Lyu, Christian Porter, Cong Ling, "[Performance Limits of Lattice Reduction over Imaginary Quadratic Fields with Applications to Compute-and-Forward](https://ieeexplore.ieee.org/document/8613476)", ITW 2018.
 - Ling Liu and Cong Ling, "Algebraic Polar Lattices for Fast Fading Channels," ISTC 2018.
 - Conghui Li, Lu Gan and Cong Ling, "2D MIMO Radar with Coprime Arrays," SAM 2018.
 - Antonio Campello, Ling Liu and Cong Ling, "[Multilevel Code Construction for Compound Fading Channels](https://arxiv.org/abs/1701.08314)", ISIT 2017.

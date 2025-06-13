@@ -1,7 +1,7 @@
 ---
 title: "Quantum Information and Post-Quantum Cryptography"
 collection: teaching
-type: "Undergraduate Course"
+type: "Graduate Course"
 permalink: /teaching/quantum-information-post-quantum-cryptography/
 venue: "Imperial College London"
 date: 2024-01-01

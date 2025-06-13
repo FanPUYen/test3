@@ -6,6 +6,7 @@ permalink: /teaching/information-theory/
 venue: "Imperial College London"
 date: 2024-01-01
 location: "London, UK"
+status: current
 ---
 {% include base_path %}
 

@@ -7,18 +7,17 @@ author_profile: true
 
 {% include base_path %}
 
-<h2>Courses</h2>
-<p>Current:</p>
-<ul>
-<li>Quantum Information and Post-Quantum Cryptography (jointly with Dr <a href="https://www.imperial.ac.uk/people/f.mintert" target="_blank">Florian Mintert</a>)</li>
-<li><a href="{{ "/teaching/information-theory/" | relative_url }}">Information Theory</a></li>
-<li>Probability and Random Processes</li>
-</ul>
-<p>Past:</p>
-<ul>
-<li><a href="http://www.commsp.ee.ic.ac.uk/~cling/Com/Communications.htm">Communication Systems</a></li>
-</ul>
+{% assign current_teaching = site.teaching | where: "status", "current" | sort: "date" | reverse %}
+{% assign past_teaching = site.teaching | where: "status", "past" | sort: "date" | reverse %}
 
-{% for post in site.teaching reversed %}
+<h2>Current Courses</h2>
+{% for post in current_teaching %}
   {% include archive-single.html %}
 {% endfor %}
+
+<h2>Past Courses</h2>
+{% for post in past_teaching %}
+  {% include archive-single.html %}
+{% endfor %}
+
+

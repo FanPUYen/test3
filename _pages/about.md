@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-![Cong](http://www.ee.ic.ac.uk/msc_csp/images/CongLing.jpg){: .alignright width="200" height="300"}
 
 **Cong Ling** (凌聪)  
 [Communications and Signal Processing Group](http://www3.imperial.ac.uk/commssigproc)  

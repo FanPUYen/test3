@@ -5,7 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-## New
+<hr />
+
+## ** New**
+
+<hr />
 - Charles Grover, Cong Ling, Roope Vehkalahti, "[Non-Commutative Ring Learning With Errors From Cyclic Algebras](https://eprint.iacr.org/2019/680)", submitted.
 - Jiabo Wang and Cong Ling, "[Polar Sampler: Discrete Gaussian Sampling over the Integers Using Polar Codes](https://eprint.iacr.org/2019/674)", submitted.
 - Shanxiang Lyu, Christian Porter, Cong Ling, "[Lattice Reduction over Imaginary Quadratic Fields](https://arxiv.org/abs/1806.03113)", IEEE Trans. Signal Processing, vol. 68, pp. 6380-6393, Nov. 2020.
@@ -17,7 +21,11 @@ author_profile: true
 - Antonio Campello, Cong Ling and Jean-Claude Belfiore, "[Semantically Secure Lattice Codes for Compound MIMO Channels](https://arxiv.org/abs/1903.09954)", IEEE Trans. Inform. Theory, vol. 66, pp. 1572-1584, Mar 2020.
 **---**
 
-## Journal Papers
+<hr />
+
+## **Journal Papers**
+
+<hr />
 - Rafael Cerna Loli, Onur Dizdar, Bruno Clerckx, Cong Ling, "[Model-based deep learning receiver design for rate-splitting multiple access](https://ieeexplore.ieee.org/abstract/document/10091798/)", *IEEE Transactions on Wireless Communications*, vol. 22, no. 11, pp. 8352–8365, 2023.  
 - Nitish Mital, Cong Ling, Deniz Gündüz, "[Secure distributed matrix computation with discrete Fourier transform](https://ieeexplore.ieee.org/abstract/document/9732990/)", *IEEE Transactions on Information Theory*, vol. 68, no. 7, pp. 4666–4680, 2022.  
 - Charles Grover, Andrew Mendelsohn, Cong Ling, Roope Vehkalahti, "[Non-commutative ring learning with errors from cyclic algebras](https://link.springer.com/article/10.1007/s00145-022-09430-6/)", *Journal of Cryptology*, vol. 35, no. 3, p. 22, 2022.  
@@ -177,6 +185,10 @@ author_profile: true
 - Xiaofu Wu, Cong Ling and Haige Xiang, "Despreading chip waveform design for coherent delay-locked tracking in DS/SS systems," ICC 2002, New York.
 **---**
 
-## Book/Book Chapter
+<hr />
+
+## **Book/Book Chapter**
+
+<hr />
 - Daniel Valderas, Juan Ignaco Sancho, David Puente, Cong Ling, and Xiaodong Chen, *Ultrawideband Antennas: Design and Applications*, Imperial College Press, 2010.
 - Haishi Ning and Cong Ling, "Network coding in heterogeneous wireless networks," in *Heterogeneous Cellular Networks*, eds Xiaoli Chu and David Lopez Perez, Cambridge University Press, to be published in 2012.

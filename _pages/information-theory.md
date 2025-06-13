@@ -16,7 +16,7 @@ This course will set out the fundamental concepts of information theory. Express
 * **Reference:** *Information Theory and Network Coding*, Raymond W. Yeung, Springer, 2008. Free at <http://iest2.ie.cuhk.edu.hk/~whyeung/book2/>
 * **Reference:** *Lecture Notes on Network Information Theory*, A. E. Gamal and Y.-H. Kim. <http://arxiv.org/abs/1001.3404>
 * **Reference:** *Information Theory, Inference, and Learning Algorithms*, D MacKay, CUP, or free at <http://www.inference.phy.cam.ac.uk/mackay/itila/>
-* Shannon's original paper: [A mathematical theory of communication]({{ base_path }}/files/IT/A_Mathematical_Theory_of_Communication.pdf), Bell System Technical Journal, Vol. 27, pp. 379–423, 623–656, July, October, 1948.
+* Shannon's original paper: [A mathematical theory of communication]({{ base_path }}/files/IT/A Mathematical Theory of Communication.pdf), Bell System Technical Journal, Vol. 27, pp. 379–423, 623–656, July, October, 1948.
 
 ## Lecture Slides
 

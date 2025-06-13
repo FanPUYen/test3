@@ -10,6 +10,7 @@ author_profile: true
 ## **New**
 
 <hr />
+
 - Charles Grover, Cong Ling, Roope Vehkalahti, "[Non-Commutative Ring Learning With Errors From Cyclic Algebras](https://eprint.iacr.org/2019/680)", submitted.
 - Jiabo Wang and Cong Ling, "[Polar Sampler: Discrete Gaussian Sampling over the Integers Using Polar Codes](https://eprint.iacr.org/2019/674)", submitted.
 - Shanxiang Lyu, Christian Porter, Cong Ling, "[Lattice Reduction over Imaginary Quadratic Fields](https://arxiv.org/abs/1806.03113)", IEEE Trans. Signal Processing, vol. 68, pp. 6380-6393, Nov. 2020.
@@ -116,6 +117,7 @@ author_profile: true
 ## **Conference Papers**
 
 <hr />
+
 - Jinwen Shi, Cong Ling, Osvaldo Simeone, Jörg Kliewer, "[Coded Computation Against Straggling Channel Decoders in the Cloud for Gaussian Channels](https://arxiv.org/abs/1805.11698)", ISIT 2020.
 - Nitish Mital, Deniz Günduz, Cong Ling, "[Coded caching in a Multi-Server System with Random Topology](https://arxiv.org/abs/1712.00649)", WCNC 2018.
 - Nitish Mital, Katina Kralevska, Deniz Gunduz, Cong Ling, "[Storage-Repair Bandwidth Trade-off for Wireless Caching with Partial Failure and Broadcast Repair](https://arxiv.org/abs/1807.00220)", ITW 2018.
@@ -190,5 +192,6 @@ author_profile: true
 ## **Book/Book Chapter**
 
 <hr />
+
 - Daniel Valderas, Juan Ignaco Sancho, David Puente, Cong Ling, and Xiaodong Chen, *Ultrawideband Antennas: Design and Applications*, Imperial College Press, 2010.
 - Haishi Ning and Cong Ling, "Network coding in heterogeneous wireless networks," in *Heterogeneous Cellular Networks*, eds Xiaoli Chu and David Lopez Perez, Cambridge University Press, to be published in 2012.

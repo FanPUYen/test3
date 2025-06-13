@@ -72,7 +72,7 @@ mathjax: true
 - Shanxiang Lyu and Cong Ling, "[Boosted KZ and LLL Algorithms](https://arxiv.org/abs/1703.03303)", IEEE Trans. Signal Processing, vol. 65, pp. 4784-4796, Sept. 2017.
 - William Liu and Cong Ling, "[Efficient Integer Coefficient Search for Compute-and-Forward](https://arxiv.org/abs/1609.05490)", IEEE Trans. Wireless Commun., vol. 15, pp. 8039-8050, Dec. 2016.
 - Ling Liu and Cong Ling, "[Polar Codes and Polar Lattices for Independent Fading Channels](https://arxiv.org/abs/1601.04967)", IEEE Trans. Commun., vol. 64, pp. 4923-4935, Dec. 2016.
-- Xiaofu Wu, Zhen Yan, Cong Ling, Xiang-Gen Xia, "[Artificial-Noise-Aided Physical Layer Phase Challenge-Response Authentication for Practical OFDM Transmission](http://arxiv.org/abs/1502.07565)", IEEE Trans. Wireless Commun., vol. 15, pp. 6611-6625, Oct. 2016.
+- Xiaofu Wu, Zhen Yan, Cong Ling, Xiang-Gen Xia, "[Artificial-Noise-Aided Physical Layer Phase Challenge-Response Authentication for Practical OFDM Transmission](https://ieeexplore.ieee.org/abstract/document/7501833/)", IEEE Trans. Wireless Commun., vol. 15, pp. 6611-6625, Oct. 2016.
 - Xiaofu Wu, Zhen Yang, Cong Ling, Xiang-Gen Xia, "[Artificial-Noise-Aided Message Authentication Codes with Information-Theoretic Security](http://arxiv.org/abs/1511.05357)", IEEE Trans. Inform. Forensics & Security, vol. 11, no. 6, pp. 1278-1290, Jan. 2016.
 - Changick Song and Cong Ling, "[On the Diversity of Linear Transceivers in MIMO AF Relaying Systems](http://arxiv.org/abs/1403.2081)", IEEE Trans. Inform. Theory, vol. 62, no. 1, pp. 272-289, Jan. 2016.
 - Peng Zhang, Lu Gan, Sumei Sun, and Cong Ling, "[Modulated Unit-Norm Tight Frames for Compressed Sensing](http://arxiv.org/abs/1411.7630)", IEEE Trans. Signal Processing, vol. 63, no. 15, pp. 3974-3985, Aug. 2015.
@@ -86,14 +86,14 @@ mathjax: true
 - Cong Ling, Su Gao, and Jean-Claude Belfiore, "[Wyner-Ziv coding based on multi-dimensional nested lattices](http://arxiv.org/abs/1111.1347)", IEEE Trans. Commun., vol. 60, pp. 1328-1335, May 2012.
 - Shuiyin Liu, Cong Ling, and Damien Stehle, "[Decoding by sampling: A randomized lattice algorithm for bounded-distance decoding](http://arxiv.org/abs/1003.0064)", IEEE Trans. Inform. Theory, vol. 57, pp. 5933-5945, Sept. 2011.
 - Cong Ling, "[On the proximity factors of lattice reduction-aided decoding](http://arxiv.org/abs/1006.1666)", IEEE Trans. Signal Processing, vol. 59, pp. 2795-2808, June 2011.
-- Haishi Ning, Cong Ling, and Kin. K. Leung, "Feasibility condition for interference alignment with diversity," IEEE Trans. Inform. Theory, vol. 57, pp. 2902-2912, May 2011.
+- Haishi Ning, Cong Ling, and Kin. K. Leung, "[Feasibility condition for interference alignment with diversity](https://ieeexplore.ieee.org/abstract/document/5752440/)," IEEE Trans. Inform. Theory, vol. 57, pp. 2902-2912, May 2011.
 - Haishi Ning, Cong Ling, and Kin. K. Leung, "Generalized sequential slotted amplify and forward strategy in cooperative communications," IEEE Trans. Inform. Theory, vol. 57, pp. 1968-1974, Apr. 2011.
 - L. Bai, C. Chen, J. Choi, and C. Ling, "Greedy user selection using a lattice reduction updating method for multiuser MIMO systems," IEEE Trans. Vehicular Tech., vol. 60, pp. 136-147, Jan. 2011.
 - Yifan Chen and Cong Ling, "Effect of correlated Nakagami-m fading on the e-outage channel capacity of the decentralized two-relay network" IEEE Trans. Wireless. Commun., vol. 9, pp. 3607-3612, Dec. 2010.
 - Daniel Valderas, Cong Ling, and Pedro Crespo, "UWB portable printed monopole array design for MIMO communications," Microwave and Optical Technology Letters, vol. 52, pp. 889-895, Apr. 2010.
 - Cong Ling, Wai Ho Mow, and Lu Gan, "[Dual-lattice algorithm and partial lattice reduction for SIC-based MIMO detection](http://arxiv.org/abs/0708.2979)", IEEE J. Sel. Topics on Signal Processing, vol. 3, pp. 975-985, Dec. 2009.
 - Xiaofu Wu, Cong Ling, Ming Jiang, Enyang Xu, Chunming Zhao, and Xiaohu You, "[New insights into weighted bit-flipping decoding Communications](http://arxiv.org/abs/1004.0439)", IEEE Trans. Commun., vol. 57, pp. 2177-2180, Aug. 2009.
-- Ying Hung Gan, Cong Ling, and Wai Ho Mow, "Complex lattice reduction algorithm for low-complexity full-diversity MIMO detection," IEEE Trans. Signal Processing, vol. 57, pp. 2701-2710, July 2009.
+- Ying Hung Gan, Cong Ling, and Wai Ho Mow, "[Complex lattice reduction algorithm for low-complexity full-diversity MIMO detection](https://ieeexplore.ieee.org/abstract/document/4787140/)", IEEE Trans. Signal Processing, vol. 57, pp. 2701-2710, July 2009.
 - Lu Gan and Cong Ling, "Computation of the Para-Pseudo Inverse for Oversampled Filter Banks: Forward and Backward Greville Formulas," IEEE Trans. Signal Processing, vol. 56, pp. 5851-5860, Dec. 2008.
 - Cong Ling and Xiaofu Wu, "A back-iteration method for reconstructing chaotic sequences in finite-precision machines," Circuits, Syst., Signal Processing, vol. 27, pp. 883-891, Oct. 2008.
 - Cong Ling, K. H. Li and A. C. Kot, "Performance of space-time codes: Gallager bounds and weight enumeration," IEEE Trans. Inform. Theory, vol. 54, pp. 3592-3610, Aug. 2008.
@@ -103,16 +103,16 @@ mathjax: true
 - Xiaofu Wu, Haige Xiang, Cong Ling, Xiaohu You, and Shaoqian Li, "Bounds on the decoding error probability of binary block codes over noncoherent block AWGN and fading channels," IEEE Trans. Wireless Commun., vol. 5, pp. 3193-3203, Nov. 2006.
 - Cong Ling, W. H. Mow, K. H. Li and A. C. Kot, "Multiple-Antenna differential lattice decoding," IEEE J-SAC, vol. 23, pp. 1821-1829, Sept. 2005.
 - Cong Ling, K. H. Li and A. C. Kot, "On decision-feedback detection of differential space-time modulation in continuous fading," IEEE Trans. Commun., vol. 52, pp. 1613-1617, Oct. 2004.
-- Cong Ling, K. H. Li and A. C. Kot, "Noncoherent sequence detection of differential space-time modulation," IEEE Trans. Inform. Theory, vol. 49, pp. 2727-2734, Oct. 2003.
+- Cong Ling, K. H. Li and A. C. Kot, "[Noncoherent sequence detection of differential space-time modulation](https://ieeexplore.ieee.org/abstract/document/1237151/)," IEEE Trans. Inform. Theory, vol. 49, pp. 2727-2734, Oct. 2003.
 - Cong Ling, K. H. Li, A. C. Kot, and Q. T. Zhang, "Multisampling decision-feedback linear prediction receivers for differential space-time modulation over Rayleigh fast fading channels," IEEE Trans. Commun., vol. 51, pp. 1214-1223, July 2003.
-- Guozhen Zang and Cong Ling, "Performance evaluation for bandlimited DS-CDMA systems based on simplified improved Gaussian approximation," IEEE Trans. Commun., vol. 51, pp. 1204-1213, July 2003.
+- Guozhen Zang and Cong Ling, "[Performance evaluation for band-limited DS-CDMA systems based on simplified improved Gaussian approximation](https://ieeexplore.ieee.org/abstract/document/1214842/)," IEEE Trans. Commun., vol. 51, pp. 1204-1213, July 2003.
 - Guozhen Zang and Cong Ling, "Family size of orthogonal Oppermann sequences," Electron. Lett., vol. 37, pp. 631-632, May 2001.
 - Ling Cong and Wu Xiaofu, "[Design and implementation of an FPGA-based generator for chaotic frequency hopping sequences](https://ieeexplore.ieee.org/document/905363)", IEEE Trans. CAS-I, vol. 48, pp. 521-532, May 2001.
 - Ling Cong and Li Shaoqian, "Chaotic spreading sequences with multiple access performance better than random sequences," IEEE Trans. CAS-I, vol. 47, pp. 394-397, Mar. 2000.
-- Ling Cong, Wu Xiaofu and Yi Xiaoxin, "On SOVA for nonbinary codes," IEEE Commun. Lett., vol. 3, pp. 335-337, Dec. 1999.
+- Ling Cong, Wu Xiaofu and Yi Xiaoxin, "[On SOVA for nonbinary codes](https://ieeexplore.ieee.org/abstract/document/824972/)," IEEE Commun. Lett., vol. 3, pp. 335-337, Dec. 1999.
 - Xiaofu Wu, Cong Ling and Songgeng Sun, "Data-aided phase tracking detection of frequency-shifted DPSK signals with baseband frequency-drift compensation," Electron. Lett., vol. 35, no. 15, pp. 1222-1223, July 1999.
-- Ling Cong, Wu Xiaofu and Sun Songgeng, "A general efficient method for chaotic signal estimation," IEEE Trans. Signal Processing, vol. 47, pp. 1424-1427, May 1999.
-- Ling Cong and Sun Songgeng, "Chaotic frequency hopping sequences," IEEE Trans. Commun., vol. 46, pp. 1433-1437, Nov. 1998.
+- Ling Cong, Wu Xiaofu and Sun Songgeng, "[A general efficient method for chaotic signal estimation](https://ieeexplore.ieee.org/abstract/document/757236/)", IEEE Trans. Signal Processing, vol. 47, pp. 1424-1427, May 1999.
+- Ling Cong and Sun Songgeng, "[Chaotic frequency hopping sequences](https://ieeexplore.ieee.org/abstract/document/729385/)", IEEE Trans. Commun., vol. 46, pp. 1433-1437, Nov. 1998.
 **---**
 
 ## Conference Papers
@@ -169,7 +169,7 @@ mathjax: true
 - Peng Zhang, Lu Gan, Sumei Sun and Cong Ling, "Deterministic sequences for compressive MIMO channel estimation," EUSIPCO 2013.
 - Cong Ling and Lu Gan, "Lattice quantization noise revisited," IEEE Inform. Theory Workshop 2013.
 - Maria Estela, Cong Ling and Jean-Claude Belfiore, "Barnes-Wall lattices for symmetric interference channel," ISIT 2013.
-- Yanfei Yan, Cong Ling and Xiaofu Wu, "Polar lattices: Where Arikan meets Forney," ISIT 2013.
+- Yanfei Yan, Cong Ling and Xiaofu Wu, "[Polar lattices: Where Arikan meets Forney](https://ieeexplore.ieee.org/abstract/document/6620435/)," ISIT 2013.
 - Cong Ling, Laura Luzzi and Matthieu Bloch, "Secret key generation from Gaussian sources using lattice hashing," ISIT 2013.
 - Cong Ling and Jean-Claude Belfiore, "Achieving the AWGN channel capacity with lattice Gaussian distribution," ISIT 2013.
 - B. Ahmad, W. Dai, and C. Ling, "Reliable sub-Nyquist wideband spectrum sensing based on randomised sampling," CoSeRa 2012, Bonn, Germany.
@@ -185,7 +185,7 @@ mathjax: true
 - Cong Ling, Shuiyin Liu, Laura Luzzi and Damien Stehle, "Decoding by embedding: Correct decoding radius and DMT optimality," ISIT 2011.
 - Li-Chia Choo, Cong Ling, and Kat-kit Wong, "Achievable rates for lattice coding over the Gaussian wiretap channel," ICC 2011 Physical Layer Security Workshop.
 - Kezhi Li, Cong Ling and Lu Gan, "Deterministic compressed-sensing matrices: Where Toeplitz meets Golay," IEEE ICASSP 2011, Prague, Czech.
-- Hashi Ning, Cong Ling, and Kin K. Leung, "Relay-aided interference alignment: Feasibility conditions and algorithm," ISIT 2010, Austin, US.
+- Hashi Ning, Cong Ling, and Kin K. Leung, "[Relay-aided interference alignment: Feasibility conditions and algorithm](https://ieeexplore.ieee.org/abstract/document/5513346/)," ISIT 2010, Austin, US.
 - Shuiyin Liu, Cong Ling, and Damien Stehle, "Randomized lattice decoding: Bridging the gap between lattice reduction and sphere decoding," ISIT 2010, Austin, US.
 - Cong Ling and Wai Ho Mow, "A unified view of sorting in lattice reduction: From V-BLAST to LLL and beyond," IEEE Inform. Theory Workshop 2009, Taormina, Italy.
 - Kezhi Li, Cong Ling and Lu Gan, "Statistical restricted isometry property of orthogonal symmetric Toeplitz matrices," IEEE Inform. Theory Workshop 2009, Taormina, Italy.
@@ -194,12 +194,12 @@ mathjax: true
 - Haishi Ning, Cong Ling and Kin Leung, "Near-optimal relaying strategy for cooperative broadcast channel," ICC 2009, Dresden, Germany.
 - Cong Ling and Wai Ho Mow, "On complex LLL algorithm for digital communications," LLL+25 Conference, Caen, France, 2007.
 - Xiaofu Wu, Cong Ling et al., "Towards understanding weighted bit-flipping decoding," ISIT 2007, Nice, France.
-- Cong Ling and Nick Howgrave-Graham, "Effective LLL reduction for lattice decoding," ISIT 2007, Nice, France.
+- Cong Ling and Nick Howgrave-Graham, "[Effective LLL reduction for lattice decoding](https://ieeexplore.ieee.org/abstract/document/4557226/)", ISIT 2007, Nice, France.
 - Lu Gan and Cong Ling, "Computation of the dual frame: Forward and backward Greville formulas," IEEE ICASSP 2007.
 - Cong Ling, Lu Gan, and Wai Ho Mow, "A dual-lattice view of V-BLAST detection," IEEE Inform. Theory Workshop, Chengdu, China, 2006.
 - Cong Ling, "Gallager bounds for space-time codes in quasi-static fading channels," IEEE Inform. Theory Workshop, 2006.
 - Cong Ling, "Approximate lattice decoding: Primal versus dual basis reduction," ISIT 2006, Seattle.
-- Cong Ling, "Towards characterizing the performance of approximate lattice decoding in MIMO communications," Int. Symp. Turbo Codes / Int. ITG Conf. Source Channel Coding 2006, Munich, Germany.
+- Cong Ling, "[Towards characterizing the performance of approximate lattice decoding in MIMO communications](https://ieeexplore.ieee.org/abstract/document/5755804/)," Int. Symp. Turbo Codes / Int. ITG Conf. Source Channel Coding 2006, Munich, Germany.
 - Cong Ling, W. H. Mow, K. H. Li and A. C. Kot, "Differential lattice decoding in noncoherent MIMO communication," ICC 2005, Seoul, Korea.
 - Cong Ling, K. H. Li and A. C. Kot, "Gallager bounds for space-time codes," IEEE Communication Theory Workshop 2004, Capri, Italy.
 - Cong Ling, K. H. Li and A. C. Kot, "On Decision-Feedback Detection of Nondiagonal Differential Space-Time Modulation in Temporally Correlated Fading Channels," ICC 2003, Anchorage, AL.

@@ -29,6 +29,12 @@ author_profile: true
 
 <hr style="border: none; height: 4px; background-color: #333;" />
 
+- Rafael Cerna Loli, Onur Dizdar, Bruno Clerckx, Cong Ling, “[Model-based deep learning receiver design for rate-splitting multiple access](https://doi.org/10.1109/TWC.2023.3262361)”, *IEEE Transactions on Wireless Communications*, vol. 22, no. 11, pp. 8352–8365, Nov. 2023.  
+- Laura Luzzi, Cong Ling, Matthieu R. Bloch, “[Optimal rate-limited secret key generation from Gaussian sources using lattices](https://doi.org/10.1109/TIT.2023.3266033)”, *IEEE Transactions on Information Theory*, vol. 69, no. 8, pp. 4944–4960, Aug. 2023.  
+- Jiabo Wang, Cong Ling, “[Polar sampler: A novel Bernoulli sampler using polar codes with application to integer Gaussian sampling](https://doi.org/10.1007/s10623-022-01164-7)”, *Designs, Codes and Cryptography*, vol. 91, no. 5, pp. 1779–1811, May 2023.  
+- Jiabo Wang, Cong Ling, “[Polar coding for Ring-LWE-based public key encryption](https://doi.org/10.1007/s12095-022-00607-1)”, *Cryptography and Communications*, vol. 15, no. 2, pp. 397–431, Apr. 2023.  
+- Zheng Wang, Cong Ling, Shi Jin, Yi Huang, Feng Gao, “[Probabilistic searching for MIMO detection based on lattice Gaussian distribution](https://doi.org/10.1109/TCOMM.2023.3278732)”, *IEEE Transactions on Communications*, vol. 72, no. 1, pp. 85–100, Jan. 2023.  
+- Alar Leibak, Christian Porter, Cong Ling, “[Unit reducible fields and perfect unary forms](https://doi.org/10.5802/jtnb.1267)”, *Journal de Théorie des Nombres de Bordeaux*, vol. 35, no. 3, pp. 867–895, 2023.  
 - Shanxiang Lyu, Zheng Wang, Cong Ling, Hao Chen, “[Better Lattice Quantizers Constructed from Complex Integers](https://doi.org/10.1109/TCOMM.2022.3215685)”, *IEEE Transactions on Communications*, vol. 70, no. 12, pp. 7932–7940, Dec. 2022.  
 - Yifeng Rocky Zhu, David Joseph, Cong Ling, Florian Mintert, “[Iterative Quantum Optimization with an Adaptive Problem Hamiltonian for the Shortest Vector Problem](https://doi.org/10.1103/PhysRevA.106.022435)”, *Physical Review A*, vol. 106, no. 2, 022435, 29 Aug. 2022.  
 - Nitish Mital, Cong Ling, Deniz Gündüz, “[Secure Distributed Matrix Computation with Discrete Fourier Transform](https://doi.org/10.1109/TIT.2022.3158868)”, *IEEE Transactions on Information Theory*, vol. 68, no. 7, pp. 4666–4680, Jul. 2022.  
@@ -115,6 +121,9 @@ author_profile: true
 
 <hr style="border: none; height: 4px; background-color: #333;" />
 
+- Cong Ling, Andrew Mendelsohn, “[Middle-Products of Skew Polynomials and Learning with Errors](https://doi.org/10.1007/978-3-031-47818-5_11)”, *IMA International Conference on Cryptography and Coding*, pp. 199–219, Dec. 2023.  
+- Mengfan Zheng, Cong Ling, “[PAC Codes for Source and Joint Source-Channel Coding](https://doi.org/10.1109/GCWkshps58843.2023.10464862)”, *2023 IEEE Globecom Workshops (GC Wkshps)*, pp. 1542–1547, Aug. 2023.  
+- Cong Ling, Andrew Mendelsohn, “[NTRU in Quaternion Algebras of Bounded Discriminant](https://doi.org/10.1007/978-3-031-40003-2_10)”, *International Conference on Post-Quantum Cryptography*, pp. 256–290, 2023.  
 - Cong Ling, “[K.T. Wang (Wang Algebra) – Updated Expanded History](https://ibis.org/summits/may22/ross.pdf)”, *Virtual European IBIS Summit*, Siegen, Germany, 26 May 2022.
 - Mengfan Zheng, Jiaqi Gu, Mengyao Ma, Cong Ling, “[Joint Source-Channel Polar Coding for Biased Bernoulli Sources at Short Blocklengths](https://dblp.org/rec/conf/istc/ZhengGM021)”, *2021 International Symposium on Topics in Coding (ISTC)*, pp. 1–5, 2021.  
 - Charbel Saliba, Laura Luzzi, Cong Ling, “[A Reconciliation Approach to Key Generation Based on Module-LWE](https://doi.org/10.1109/ISIT45174.2021.9517882)”, *Proc. IEEE International Symposium on Information Theory (ISIT)*, pp. 1636–1641, 2021.  

@@ -7,8 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign current_teaching = site.teaching | where: "status", "current" | sort: "date" | reverse %}
-{% assign past_teaching = site.teaching | where: "status", "past" | sort: "date" | reverse %}
+
+{% assign current_teaching = site.teaching | where: "status", "current" %}
+{% assign past_teaching = site.teaching | where: "status", "past" %}
+
 
 <h2>Courses</h2>
 <p>Current:</p>

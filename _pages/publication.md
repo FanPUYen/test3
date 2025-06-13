@@ -13,7 +13,7 @@ author_profile: true
 
 <hr style="border: none; height: 4px; background-color: #333;" />
 
--Bollauf, Maiara F., Maja Lie, and Cong Ling. "[On Gaussian Sampling for $q$-ary Lattices and Linear Codes with Lee Weight](https://eprint.iacr.org/2025/087)." accepted by *CRYPTO 2025*.
+- Bollauf, Maiara F., Maja Lie, and Cong Ling. "[On Gaussian Sampling for $q$-ary Lattices and Linear Codes with Lee Weight](https://eprint.iacr.org/2025/087)." accepted by *CRYPTO 2025*.
 
 **---**
 

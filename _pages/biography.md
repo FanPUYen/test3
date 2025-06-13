@@ -6,9 +6,6 @@ author_profile: true
 ---
 
 {% include base_path %}
-![Cong](http://www.ee.ic.ac.uk/msc_csp/images/CongLing.jpg){: .alignright width="200" height="300"}
-
-## Biography
 
 **Cong Ling** (凌聪)  
 
@@ -16,9 +13,9 @@ Cong Ling is currently a Professor in the Electrical and Electronic Engineering 
 
 Dr. Ling has been an Associate Editor (in multiterminal communications and lattice coding) of IEEE Transactions on Communications, and an Associate Editor of IEEE Transactions on Vehicular Technology. He is a member of IEEE.
 
-[Communications and Signal Processing Group](http://www3.imperial.ac.uk/commssigproc)  
-[Department of Electrical and Electronic Engineering](http://www3.imperial.ac.uk/electricalengineering)  
-[Imperial College London](http://www3.imperial.ac.uk/)  
+[Communications and Signal Processing Group](https://www.imperial.ac.uk/electrical-engineering/research/comms-and-signal-processing/)  
+[Department of Electrical and Electronic Engineering](https://www.imperial.ac.uk/electrical-engineering/)  
+[Imperial College London](https://www.imperial.ac.uk/)  
 South Kensington Campus  
 London SW7 2AZ, United Kingdom
 

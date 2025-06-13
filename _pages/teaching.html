@@ -13,8 +13,6 @@ author_profile: true
 <h2>Courses</h2>
 <p>Current:</p>
 <ul>
-<li>Quantum Information and Post-Quantum Cryptography (jointly with Dr <a href="https://www.imperial.ac.uk/people/f.mintert" target="_blank">Florian Mintert</a>)</li>
-<li>Probability and Random Processes</li>
 {% for post in current_teaching %}
 <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
 {% endfor %}

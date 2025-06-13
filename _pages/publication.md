@@ -29,6 +29,7 @@ author_profile: true
 
 <hr style="border: none; height: 4px; background-color: #333;" />
 
+- Andrew Mendelsohn, Edmund Dable-Heath, Cong Ling, “[A small serving of mash: (Quantum) algorithms for SPDH-Sign with small parameters](https://doi.org/10.1515/jmc-2024-0025)”, *Journal of Mathematical Cryptology*, vol. 19, no. 1, paper 20240025, 2025.
 - Christian Porter, Edmund Dable-Heath, Cong Ling, “[A new bound for the orthogonality defect of HKZ reduced lattices](https://doi.org/10.1007/s40993-024-00554-1)”, *Research in Number Theory*, vol. 10, no. 3, p. 65, Jul. 2024.  
 - Andrew Mendelsohn, Cong Ling, “[Fractional non-norm elements for division algebras, and an application to Cyclic Learning with Errors](https://doi.org/10.3934/amc.2023043)”, *Advances in Mathematics of Communications*, vol. 18, no. 2, pp. 410–424, Apr. 2024.  
 - Shanxiang Lyu, Ling Liu, Cong Ling, Junzuo Lai, Hao Chen, “[Lattice codes for lattice-based PKE](https://doi.org/10.1007/s10623-023-01321-6)”, *Designs, Codes and Cryptography*, vol. 92, no. 4, pp. 917–939, Apr. 2024.  
@@ -125,6 +126,7 @@ author_profile: true
 
 <hr style="border: none; height: 4px; background-color: #333;" />
 
+- Sebastian Stern, Cong Ling, Cornelia Ott, Robert F. H. Fischer, “[Quaternionic Minkowski Reduction and Its Application in Dual-Polarized MIMO Systems](https://doi.org/10.1109/IEEECONF62907)”, *14th International ITG Conference on Systems, Communications and Coding (SCC)*, Mar. 2025. 
 - Cong Ling, Jingbo Liu, Andrew Mendelsohn, “[On the spinor genus and the distinguishing lattice isomorphism problem](https://doi.org/10.1007/978-981-96-0894-2_11)”, *International Conference on the Theory and Application of Cryptology and Information Security (ASIACRYPT 2024)*, pp. 199–219, 2024.  
 - Ling Liu, Shanxiang Lyu, Cong Ling, Baoming Bai, “[On the quantization goodness of polar lattices](https://arxiv.org/abs/2405.04051)”, *2024 IEEE Information Theory Workshop (ITW)*, pp. 348–353, Jul. 2024.  
 - Juliana G. F. Souza, Sueli I. R. Costa, Cong Ling, “[Construction πₐ Lattices Extended to Hurwitz Quaternion Integers](https://doi.org/10.1109/ISIT57864.2024.10619280)”, *2024 IEEE International Symposium on Information Theory (ISIT)*, pp. 2186–2191, Jul. 2024.  

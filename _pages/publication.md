@@ -87,7 +87,7 @@ mathjax: true
 - Shuiyin Liu, Cong Ling, and Damien Stehle, "[Decoding by sampling: A randomized lattice algorithm for bounded-distance decoding](http://arxiv.org/abs/1003.0064)", IEEE Trans. Inform. Theory, vol. 57, pp. 5933-5945, Sept. 2011.
 - Cong Ling, "[On the proximity factors of lattice reduction-aided decoding](http://arxiv.org/abs/1006.1666)", IEEE Trans. Signal Processing, vol. 59, pp. 2795-2808, June 2011.
 - Haishi Ning, Cong Ling, and Kin. K. Leung, "[Feasibility condition for interference alignment with diversity](https://ieeexplore.ieee.org/abstract/document/5752440/)," IEEE Trans. Inform. Theory, vol. 57, pp. 2902-2912, May 2011.
-- Haishi Ning, Cong Ling, and Kin K. Leung, "[Generalized sequential slotted amplify and forward strategy in cooperative communications](https://ieeexplore.ieee.org/abstract/document/5730576/)", *IEEE Transactions on Information Theory*, vol. 57, no. 4, pp. 1968-1974, Apr. 2011.
+- Haishi Ning, Cong Ling, and Kin. K. Leung, "[Generalized sequential slotted amplify and forward strategy in cooperative communications](https://arxiv.org/abs/1006.1669)," IEEE Trans. Inform. Theory, vol. 57, pp. 1968-1974, Apr. 2011.
 - L. Bai, C. Chen, J. Choi, and C. Ling, "[Greedy user selection using a lattice reduction updating method for multiuser MIMO systems](https://ieeexplore.ieee.org/abstract/document/5601797/)," IEEE Trans. Vehicular Tech., vol. 60, pp. 136-147, Jan. 2011.
 - Yifan Chen and Cong Ling, "[Effect of correlated Nakagami-m fading on the ε-outage channel capacity of the decentralized two-relay network](https://ieeexplore.ieee.org/abstract/document/5608479/)", *IEEE Transactions on Wireless Communications*, vol. 9, no. 12, pp. 3607-3612, Dec. 2010.
 - Daniel Valderas, Cong Ling, and Pedro Crespo, "[UWB portable printed monopole array design for MIMO communications](https://onlinelibrary.wiley.com/doi/abs/10.1002/mop.25047)," Microwave and Optical Technology Letters, vol. 52, pp. 889-895, Apr. 2010.
@@ -143,7 +143,7 @@ mathjax: true
 - Nitish Mital, Deniz Günduz, Cong Ling, "[Coded caching in a Multi-Server System with Random Topology](https://arxiv.org/abs/1712.00649)", WCNC 2018.
 - Nitish Mital, Katina Kralevska, Deniz Gunduz, Cong Ling, "[Storage-Repair Bandwidth Trade-off for Wireless Caching with Partial Failure and Broadcast Repair](https://arxiv.org/abs/1807.00220)", ITW 2018.
 - Shanxiang Lyu, Christian Porter, Cong Ling, "[Performance Limits of Lattice Reduction over Imaginary Quadratic Fields with Applications to Compute-and-Forward](https://ieeexplore.ieee.org/document/8613476)", ITW 2018.
-- Ling Liu and Cong Ling, "Algebraic Polar Lattices for Fast Fading Channels," ISTC 2018.
+- Ling Liu and Cong Ling, "[Algebraic Polar Lattices for Fast Fading Channels](https://ieeexplore.ieee.org/abstract/document/8625282/)," *2018 IEEE 10th International Symposium on Turbo Codes & Iterative Information Processing (ISTC)*, pp. 1–5, 2018.
 - Conghui Li, Lu Gan and Cong Ling, "2D MIMO Radar with Coprime Arrays," SAM 2018.
 - Antonio Campello, Ling Liu and Cong Ling, "[Multilevel Code Construction for Compound Fading Channels](https://arxiv.org/abs/1701.08314)", ISIT 2017.
 - Shanxiang Lyu, Antonio Campello, Cong Ling and Jean-Claude Belfiore, "[Compute-and-Forward over Block-Fading Channels Using Algebraic Lattices](https://arxiv.org/abs/1702.01422)", ISIT 2017.
@@ -168,11 +168,11 @@ mathjax: true
 - Cong Ling and Jean-Claude Belfiore, "Lattice Gaussian Coding for Capacity and Secrecy: Two Sides of One Coin," International Zurich Seminar on Communications 2014 (invited paper).
 - Peng Zhang, Lu Gan, Sumei Sun and Cong Ling, "Deterministic sequences for compressive MIMO channel estimation," EUSIPCO 2013.
 - Cong Ling and Lu Gan, "Lattice quantization noise revisited," IEEE Inform. Theory Workshop 2013.
-- Maria Estela, Cong Ling and Jean-Claude Belfiore, "Barnes-Wall lattices for symmetric interference channel," ISIT 2013.
+- Maria Estela, Cong Ling and Jean-Claude Belfiore, "[Barnes-Wall lattices for the symmetric interference channel](https://ieeexplore.ieee.org/abstract/document/6620624/)," ISIT 2013.
 - Yanfei Yan, Cong Ling and Xiaofu Wu, "[Polar lattices: Where Arikan meets Forney](https://ieeexplore.ieee.org/abstract/document/6620435/)," ISIT 2013.
-- Cong Ling, Laura Luzzi and Matthieu Bloch, "Secret key generation from Gaussian sources using lattice hashing," ISIT 2013.
-- Cong Ling and Jean-Claude Belfiore, "Achieving the AWGN channel capacity with lattice Gaussian distribution," ISIT 2013.
-- B. Ahmad, W. Dai, and C. Ling, "Reliable sub-Nyquist wideband spectrum sensing based on randomised sampling," CoSeRa 2012, Bonn, Germany.
+- Cong Ling, Laura Luzzi and Matthieu Bloch, "[Secret key generation from Gaussian sources using lattice hashing](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=d2c0e08fef4ba59a1179dfba571f1192fb62f79d)", ISIT 2013.
+- Cong Ling and Jean-Claude Belfiore, "[Achieving the AWGN channel capacity with lattice Gaussian distribution](https://scholar.google.com/scholar?cluster=4778419828112679082&hl=en&oi=scholarr)," ISIT 2013.
+- B. Ahmad, W. Dai, and C. Ling, "[Reliable Sub-Nyquist Wideband Spectrum Sensing Based on Randomised Sampling](https://www.researchgate.net/profile/Bashar-Ahmad-2/publication/267977913_Reliable_Sub-Nyquist_Wideband_Spectrum_Sensing_Based_on_Randomised_Sampling/links/55f7ea9608aec948c4752daa/Reliable-Sub-Nyquist-Wideband-Spectrum-Sensing-Based-on-Randomised-Sampling.pdf)," CoSeRa 2012, Bonn, Germany.
 - Lu Gan, Kezhi Li, and Cong Ling, "Novel Toeptlitz sensing matrices for compressive radar imaging," CoSeRa 2012, Bonn, Germany.
 - J.-C. Belfiore and Cong Ling, "The flatness factor in lattice network coding: Design criterion and decoding algorithm," International Zurich Seminar on Communications 2012, invited paper.
 - Yanfei Yan and Cong Ling, "A construction of lattices from polar codes," IEEE Inform. Theory Workshop 2012.

@@ -71,6 +71,22 @@ You should now be able to access the website from `localhost:4000`.
 
 If you are using [Visual Studio Code](https://code.visualstudio.com/) you can use the [Dev Container](https://code.visualstudio.com/docs/devcontainers/containers) that comes with this Repository. Normally VS Code detects that a development coontainer configuration is available and asks you if you want to use the container. If this doesn't happen you can manually start the container by **F1->DevContainer: Reopen in Container**. This restarts your VS Code in the container and automatically hosts your academic page locally on http://localhost:4000. All changes will be updated live to that page after a few seconds.
 
+## Customizing your site
+
+Follow these steps to update the content of your Academic Pages website:
+
+1. After downloading or cloning the repository, push your changes back to GitHub.
+2. In your repository settings open **Pages → GitHub Pages** and configure the URL for your official site.
+3. Edit `_config.yml` to set this link and any other site-wide options.
+4. Modify the following files to change key pages:
+   - `_pages/about.md` – home page
+   - `_pages/biography.md` – biography information
+   - `_pages/research.md` – research overview
+   - `_pages/research-group.md` – research group details
+5. Update publications in `_pages/publication.md` using Markdown.
+6. Add talk descriptions in the `_talks/` folder; store any slide decks (e.g. `asiacrypto2024`) under `files/`.
+7. Upload course materials or Markdown files in the `_teaching/` directory.
+
 # Maintenance
 
 Bug reports and feature requests to the template should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).

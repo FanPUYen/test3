@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 **Cong Ling** (凌聪)  
-[Communications and Signal Processing Group](http://www3.imperial.ac.uk/commssigproc)  
-[Department of Electrical and Electronic Engineering](http://www3.imperial.ac.uk/electricalengineering)  
-[Imperial College London](http://www3.imperial.ac.uk/)  
+[Communications and Signal Processing Group](https://www.imperial.ac.uk/electrical-engineering/research/comms-and-signal-processing/)  
+[Department of Electrical and Electronic Engineering](https://www.imperial.ac.uk/electrical-engineering/)  
+[Imperial College London](https://www.imperial.ac.uk/)  
 South Kensington Campus  
 London SW7 2AZ, United Kingdom
 

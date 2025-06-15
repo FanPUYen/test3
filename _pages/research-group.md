@@ -78,7 +78,7 @@ Departmental funding is available to support PhD students. The College also runs
 - Wei Liang, Chengdu University of Electronic Science and Technology, China (2013)
 - Juliana Gomes Ferreira de Souza (2022)
 - Franciele do Carmo Silva (2023)
-- Junfan Hu, Xi'an University of Electronic Science and Technology, China (2023)
+- Junfan Hu, Xidian University, China (2023)
 - Anqi Hu, Chongqing University of Posts and Telecommunications, China (2023)
 - Jiaqi Liu, Nankai University, China (2024)
 
